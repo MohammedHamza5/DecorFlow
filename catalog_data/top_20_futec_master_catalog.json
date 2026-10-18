@@ -1,0 +1,324 @@
+{
+  "title": "قائمة النخبة الـ 20 لمنتجات الفيوتك والكرانيش والبانوهات المعتمدة",
+  "category_system": "نظام المعاينة الثلاثية للفيوتك (The 3-Asset Futec Standard)",
+  "total_items": 20,
+  "products": [
+    {
+      "id": 1,
+      "code": "011",
+      "name_ar": "كرنيشة سقف كلاسيك باروك عريضة",
+      "category": "كرانيش",
+      "unit_type": "linear_meter",
+      "calc_mode": "linearMeter",
+      "dimensions": {
+        "ceiling_projection_cm": 16.0,
+        "wall_drop_cm": 14.0,
+        "piece_length_cm": 240.0
+      },
+      "style_type": "حفر باروك ملكي بارز",
+      "key_distinguisher": "سقوط 14 سم × سقف 16 سم مع زخارف نباتية متصلة",
+      "image_url": "https://plylvscdynposbqcshni.supabase.co/storage/v1/object/public/catalog_images/elsweedy_COR-011.jpg"
+    },
+    {
+      "id": 2,
+      "code": "014",
+      "name_ar": "كرنيشة سقف كلاسيك مسحوبة ناعمة",
+      "category": "كرانيش",
+      "unit_type": "linear_meter",
+      "calc_mode": "linearMeter",
+      "dimensions": {
+        "ceiling_projection_cm": 9.0,
+        "wall_drop_cm": 10.0,
+        "piece_length_cm": 240.0
+      },
+      "style_type": "كلاسيك مسحوب بخطوط طولية",
+      "key_distinguisher": "مقاس قطاع 10 سم متناسق للشقق والمساحات المتوسطة",
+      "image_url": "https://plylvscdynposbqcshni.supabase.co/storage/v1/object/public/catalog_images/elsweedy_COR-014.jpg"
+    },
+    {
+      "id": 3,
+      "code": "015",
+      "name_ar": "كرنيشة سقف مودرن ناعمة 6×6",
+      "category": "كرانيش",
+      "unit_type": "linear_meter",
+      "calc_mode": "linearMeter",
+      "dimensions": {
+        "ceiling_projection_cm": 6.0,
+        "wall_drop_cm": 6.0,
+        "piece_length_cm": 240.0
+      },
+      "style_type": "مودرن مينيمال سادة",
+      "key_distinguisher": "زاوية مربعة متساوية 6×6 سم للممرات وغرف النوم",
+      "image_url": "https://plylvscdynposbqcshni.supabase.co/storage/v1/object/public/catalog_images/elsweedy_COR-015.jpg"
+    },
+    {
+      "id": 4,
+      "code": "016",
+      "name_ar": "كرنيشة سقف كلاسيك شطف عمودي",
+      "category": "كرانيش",
+      "unit_type": "linear_meter",
+      "calc_mode": "linearMeter",
+      "dimensions": {
+        "ceiling_projection_cm": 5.0,
+        "wall_drop_cm": 7.0,
+        "piece_length_cm": 240.0
+      },
+      "style_type": "شطف مائل مع حنية وسطية",
+      "key_distinguisher": "سقوط حائط 7 سم أكثر من السقف (5 سم) ليعطي ارتفاعاً للغرفة",
+      "image_url": "https://plylvscdynposbqcshni.supabase.co/storage/v1/object/public/catalog_images/elsweedy_COR-016.jpg"
+    },
+    {
+      "id": 5,
+      "code": "018",
+      "name_ar": "كرنيشة سقف مودرن ناعمة 6×7",
+      "category": "كرانيش",
+      "unit_type": "linear_meter",
+      "calc_mode": "linearMeter",
+      "dimensions": {
+        "ceiling_projection_cm": 6.0,
+        "wall_drop_cm": 7.0,
+        "piece_length_cm": 240.0
+      },
+      "style_type": "منحنى انسيابي هادئ",
+      "key_distinguisher": "تدرج ناعم يمنع تراكم الأتربة",
+      "image_url": "https://plylvscdynposbqcshni.supabase.co/storage/v1/object/public/catalog_images/elsweedy_COR-018.jpg"
+    },
+    {
+      "id": 6,
+      "code": "019",
+      "name_ar": "كرنيشة سقف كلاسيك مربعة 11×11",
+      "category": "كرانيش",
+      "unit_type": "linear_meter",
+      "calc_mode": "linearMeter",
+      "dimensions": {
+        "ceiling_projection_cm": 11.0,
+        "wall_drop_cm": 11.0,
+        "piece_length_cm": 240.0
+      },
+      "style_type": "كلاسيك مدرج بدرجات واضحة",
+      "key_distinguisher": "مقاس متساوي 11×11 سم مع 3 درجات ظلية",
+      "image_url": "https://plylvscdynposbqcshni.supabase.co/storage/v1/object/public/catalog_images/elsweedy_COR-019.jpg"
+    },
+    {
+      "id": 7,
+      "code": "020",
+      "name_ar": "كرنيشة سقف كلاسيك عريضة 11×12",
+      "category": "كرانيش",
+      "unit_type": "linear_meter",
+      "calc_mode": "linearMeter",
+      "dimensions": {
+        "ceiling_projection_cm": 11.0,
+        "wall_drop_cm": 12.0,
+        "piece_length_cm": 240.0
+      },
+      "style_type": "كلاسيك ريسبشن فاخر",
+      "key_distinguisher": "سقوط 12 سم مع خط سفلي مقعر",
+      "image_url": "https://plylvscdynposbqcshni.supabase.co/storage/v1/object/public/catalog_images/elsweedy_COR-020.jpg"
+    },
+    {
+      "id": 8,
+      "code": "021",
+      "name_ar": "كرنيشة سقف كلاسيك 12×10.5",
+      "category": "كرانيش",
+      "unit_type": "linear_meter",
+      "calc_mode": "linearMeter",
+      "dimensions": {
+        "ceiling_projection_cm": 12.0,
+        "wall_drop_cm": 10.5,
+        "piece_length_cm": 240.0
+      },
+      "style_type": "امتداد سقفي عريض",
+      "key_distinguisher": "عرض السقف 12 سم لإخفاء عيوب التقاء الجبس",
+      "image_url": "https://plylvscdynposbqcshni.supabase.co/storage/v1/object/public/catalog_images/elsweedy_COR-021.jpg"
+    },
+    {
+      "id": 9,
+      "code": "022",
+      "name_ar": "كرنيشة سقف كلاسيك ملكية ضخمة 14×16",
+      "category": "كرانيش",
+      "unit_type": "linear_meter",
+      "calc_mode": "linearMeter",
+      "dimensions": {
+        "ceiling_projection_cm": 14.0,
+        "wall_drop_cm": 16.0,
+        "piece_length_cm": 240.0
+      },
+      "style_type": "فيكتوري ضخم للقصور والفلل",
+      "key_distinguisher": "أضخم كرنيشة كلاسيك بارتفاع حائط 16 سم وسقف 14 سم",
+      "image_url": "https://plylvscdynposbqcshni.supabase.co/storage/v1/object/public/catalog_images/elsweedy_COR-022.jpg"
+    },
+    {
+      "id": 10,
+      "code": "051",
+      "name_ar": "كرنيشة سقف مسحوبة مودرن 7.5×9",
+      "category": "كرانيش",
+      "unit_type": "linear_meter",
+      "calc_mode": "linearMeter",
+      "dimensions": {
+        "ceiling_projection_cm": 7.5,
+        "wall_drop_cm": 9.0,
+        "piece_length_cm": 240.0
+      },
+      "style_type": "مسحوب بدرجتين حادتين",
+      "key_distinguisher": "حافة سفلية مستقيمة للدهانات الديكورية الحديثة",
+      "image_url": "https://plylvscdynposbqcshni.supabase.co/storage/v1/object/public/catalog_images/elsweedy_COR-051.jpg"
+    },
+    {
+      "id": 11,
+      "code": "L001",
+      "name_ar": "بيت نور معلق بديل جبس بورد Double Channel 25 سم",
+      "category": "بيت نور",
+      "unit_type": "linear_meter",
+      "calc_mode": "linearMeter",
+      "dimensions": {
+        "width_cm": 25.0,
+        "drop_cm": 6.0,
+        "piece_length_cm": 240.0
+      },
+      "style_type": "بديل الجبس بورد للإضاءة المباشرة والمخفية",
+      "key_distinguisher": "عرض 25 سم مع مجريين لإضاءة الليد وسبوت لايت معاً",
+      "image_url": "https://plylvscdynposbqcshni.supabase.co/storage/v1/object/public/catalog_images/elsweedy_COR-L001.jpg"
+    },
+    {
+      "id": 12,
+      "code": "L002",
+      "name_ar": "بيت نور U-Shape بديل جبس بورد 15 سم",
+      "category": "بيت نور",
+      "unit_type": "linear_meter",
+      "calc_mode": "linearMeter",
+      "dimensions": {
+        "width_cm": 15.0,
+        "drop_cm": 5.0,
+        "inner_lip_cm": 1.5,
+        "piece_length_cm": 240.0
+      },
+      "style_type": "بروفايل U للإضاءة المخفية السقفية",
+      "key_distinguisher": "عرض 15 سم وشفة حاجزة 1.5 سم لمنع وهج شريط الليد",
+      "image_url": "https://plylvscdynposbqcshni.supabase.co/storage/v1/object/public/catalog_images/elsweedy_COR-L002.jpg"
+    },
+    {
+      "id": 13,
+      "code": "L003",
+      "name_ar": "كرنيشة بيت نور إضاءة مخفية دافئة 6.5×5.1",
+      "category": "بيت نور",
+      "unit_type": "linear_meter",
+      "calc_mode": "linearMeter",
+      "dimensions": {
+        "ceiling_projection_cm": 6.5,
+        "wall_drop_cm": 5.1,
+        "diagonal_cm": 8.0,
+        "piece_length_cm": 240.0
+      },
+      "style_type": "كرنيشة زاوية مجهزة لمجرى الليد",
+      "key_distinguisher": "وتر مائل 8 سم لعكس الإضاءة الدافئة نحو السقف",
+      "image_url": "https://plylvscdynposbqcshni.supabase.co/storage/v1/object/public/catalog_images/elsweedy_COR-L003.jpg"
+    },
+    {
+      "id": 14,
+      "code": "P010",
+      "name_ar": "بانوه حائط كلاسيك سادة 4 سم",
+      "category": "بانوهات",
+      "unit_type": "rod",
+      "calc_mode": "frames",
+      "dimensions": {
+        "width_cm": 4.0,
+        "piece_length_cm": 240.0,
+        "thickness_mm": 15.0
+      },
+      "style_type": "عود إطار حائط شطف جانبي",
+      "key_distinguisher": "أكثر عود بانوه مبيعاً في مصر (عرض 4 سم ستاندرد)",
+      "image_url": "https://plylvscdynposbqcshni.supabase.co/storage/v1/object/public/catalog_images/elsweedy_COR-P010.jpg"
+    },
+    {
+      "id": 15,
+      "code": "CPR101",
+      "name_ar": "زاوية بانوه مزخرفة باروك كلاسيك 12×12",
+      "category": "إكسسوارات",
+      "unit_type": "piece",
+      "calc_mode": "pieces",
+      "dimensions": {
+        "width_cm": 12.0,
+        "height_cm": 12.0,
+        "matches_frame_width_cm": 4.0
+      },
+      "style_type": "زاوية ركن ديكورية للأركان العلوية",
+      "key_distinguisher": "تركب مباشرة مع بانوه P010 بدون الحاجة لقص زاوية 45",
+      "image_url": "https://plylvscdynposbqcshni.supabase.co/storage/v1/object/public/catalog_images/elsweedy_COR-010_CPR101.jpg"
+    },
+    {
+      "id": 16,
+      "code": "030",
+      "name_ar": "بانوه حائط رفيع ناعم 2.2 سم",
+      "category": "بانوهات",
+      "unit_type": "rod",
+      "calc_mode": "frames",
+      "dimensions": {
+        "width_cm": 2.2,
+        "piece_length_cm": 240.0,
+        "thickness_mm": 10.0
+      },
+      "style_type": "بروفايل إطار داخلي ناعم",
+      "key_distinguisher": "يستخدم كإطار داخلي مزدوج (Double Frame) داخل بانوه 4 سم",
+      "image_url": "https://plylvscdynposbqcshni.supabase.co/storage/v1/object/public/catalog_images/elsweedy_COR-030.jpg"
+    },
+    {
+      "id": 17,
+      "code": "0260",
+      "name_ar": "بانوه حائط عريض بارز 6 سم",
+      "category": "بانوهات",
+      "unit_type": "rod",
+      "calc_mode": "frames",
+      "dimensions": {
+        "width_cm": 6.0,
+        "piece_length_cm": 240.0,
+        "thickness_mm": 18.0
+      },
+      "style_type": "إطار حائط عريض بارز",
+      "key_distinguisher": "عرض 6 سم مخصص للفواصل الجدارية وأسفل الحوائط (Chair Rail)",
+      "image_url": "https://plylvscdynposbqcshni.supabase.co/storage/v1/object/public/catalog_images/elsweedy_COR-0260.jpg"
+    },
+    {
+      "id": 18,
+      "code": "R5",
+      "name_ar": "صرة سقف متعددة الحلقات 70 سم",
+      "category": "صرر",
+      "unit_type": "piece",
+      "calc_mode": "pieces",
+      "dimensions": {
+        "diameter_cm": 70.0
+      },
+      "style_type": "إطار دائري سقف مدرج",
+      "key_distinguisher": "قطر ضخم 70 سم مخصص للنجف الكبير في الريسبشن",
+      "image_url": "https://plylvscdynposbqcshni.supabase.co/storage/v1/object/public/catalog_images/elsweedy_COR-R5___R6___R7___R8.jpg"
+    },
+    {
+      "id": 19,
+      "code": "M033",
+      "name_ar": "صرة سقف كلاسيك دائرية 30 سم",
+      "category": "صرر",
+      "unit_type": "piece",
+      "calc_mode": "pieces",
+      "dimensions": {
+        "diameter_cm": 30.0
+      },
+      "style_type": "صرة دائرية ناعمة كلاسيك",
+      "key_distinguisher": "قطر 30 سم مخصص لغرف الأطفال والممرات وإضاءة الأباليك",
+      "image_url": "https://plylvscdynposbqcshni.supabase.co/storage/v1/object/public/catalog_images/elsweedy_COR-M033.jpg"
+    },
+    {
+      "id": 20,
+      "code": "M069",
+      "name_ar": "صرة سقف بيضاوية مزخرفة فاخرة 76.5×61.5",
+      "category": "صرر",
+      "unit_type": "piece",
+      "calc_mode": "pieces",
+      "dimensions": {
+        "length_cm": 76.5,
+        "width_cm": 61.5
+      },
+      "style_type": "صرة بيضاوية باروك فرنسي",
+      "key_distinguisher": "شكل بيضاوي متطاول مخصص لطاولات السفرة (Dining Tables)",
+      "image_url": "https://plylvscdynposbqcshni.supabase.co/storage/v1/object/public/catalog_images/elsweedy_COR-M024___M069___M064___M001___M070___M065.jpg"
+    }
+  ]
+}

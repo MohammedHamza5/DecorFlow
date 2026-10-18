@@ -1,0 +1,1499 @@
+{
+  "catalog_name": "كتالوج شركة السويدي للديكور الشامل",
+  "brand": "السويدي",
+  "total_pages": 52,
+  "extracted_at": "2026-08-24",
+  "categories": [
+    "كرانيش",
+    "بيت نور",
+    "بانوهات",
+    "صرر",
+    "وزرات",
+    "إكسسوارات",
+    "بديل حجر"
+  ],
+  "products": [
+    {
+      "code": "P010",
+      "name": "بانوه حائط كلاسيك سادة 4 سم",
+      "category": "بانوهات",
+      "brand": "السويدي",
+      "unit_type": "rod",
+      "calculation_mode": "frames",
+      "dimensions": {
+        "width_cm": 4.0,
+        "length_cm": 240.0,
+        "thickness_mm": 15.0
+      },
+      "source_page": 3,
+      "accessories": ["M-010/1", "CPR101"]
+    },
+    {
+      "code": "M-010/1",
+      "name": "زاوية بانوه P010 سادة",
+      "category": "إكسسوارات",
+      "brand": "السويدي",
+      "unit_type": "piece",
+      "calculation_mode": "pieces",
+      "dimensions": {
+        "width_cm": 4.0,
+        "height_cm": 4.0
+      },
+      "source_page": 3
+    },
+    {
+      "code": "P240",
+      "name": "بانوه حائط مودرن ناعم 4 سم",
+      "category": "بانوهات",
+      "brand": "السويدي",
+      "unit_type": "rod",
+      "calculation_mode": "frames",
+      "dimensions": {
+        "width_cm": 4.0,
+        "length_cm": 240.0,
+        "thickness_mm": 15.0
+      },
+      "source_page": 4,
+      "accessories": ["-30/1"]
+    },
+    {
+      "code": "-30/1",
+      "name": "زاوية بانوه P240 مودرن",
+      "category": "إكسسوارات",
+      "brand": "السويدي",
+      "unit_type": "piece",
+      "calculation_mode": "pieces",
+      "dimensions": {
+        "width_cm": 4.0,
+        "height_cm": 4.0
+      },
+      "source_page": 4
+    },
+    {
+      "code": "CPR101",
+      "name": "زاوية بانوه مزخرفة باروك كلاسيك 4 سم",
+      "category": "إكسسوارات",
+      "brand": "السويدي",
+      "unit_type": "piece",
+      "calculation_mode": "pieces",
+      "dimensions": {
+        "width_cm": 12.0,
+        "height_cm": 12.0,
+        "frame_width_cm": 4.0
+      },
+      "source_page": 5
+    },
+    {
+      "code": "030",
+      "name": "بانوه حائط رفيع ناعم 2.2 سم",
+      "category": "بانوهات",
+      "brand": "السويدي",
+      "unit_type": "rod",
+      "calculation_mode": "frames",
+      "dimensions": {
+        "width_cm": 2.2,
+        "length_cm": 240.0,
+        "thickness_mm": 10.0
+      },
+      "source_page": 6
+    },
+    {
+      "code": "0220",
+      "name": "بانوه حائط كلاسيك شطف 2.2 سم",
+      "category": "بانوهات",
+      "brand": "السويدي",
+      "unit_type": "rod",
+      "calculation_mode": "frames",
+      "dimensions": {
+        "width_cm": 2.2,
+        "length_cm": 240.0,
+        "thickness_mm": 12.0
+      },
+      "source_page": 7
+    },
+    {
+      "code": "0260",
+      "name": "بانوه حائط عريض بارز 6 سم",
+      "category": "بانوهات",
+      "brand": "السويدي",
+      "unit_type": "rod",
+      "calculation_mode": "frames",
+      "dimensions": {
+        "width_cm": 6.0,
+        "length_cm": 240.0,
+        "thickness_mm": 18.0
+      },
+      "source_page": 8
+    },
+    {
+      "code": "R1",
+      "name": "صرة / إطار دائري أملس 70 سم",
+      "category": "صرر",
+      "brand": "السويدي",
+      "unit_type": "piece",
+      "calculation_mode": "pieces",
+      "dimensions": {
+        "diameter_cm": 70.0
+      },
+      "source_page": 9
+    },
+    {
+      "code": "R2",
+      "name": "صرة / إطار دائري أملس 60 سم",
+      "category": "صرر",
+      "brand": "السويدي",
+      "unit_type": "piece",
+      "calculation_mode": "pieces",
+      "dimensions": {
+        "diameter_cm": 60.0
+      },
+      "source_page": 9
+    },
+    {
+      "code": "R3",
+      "name": "صرة / إطار دائري أملس 50 سم",
+      "category": "صرر",
+      "brand": "السويدي",
+      "unit_type": "piece",
+      "calculation_mode": "pieces",
+      "dimensions": {
+        "diameter_cm": 50.0
+      },
+      "source_page": 9
+    },
+    {
+      "code": "R4",
+      "name": "صرة / إطار دائري أملس 30 سم",
+      "category": "صرر",
+      "brand": "السويدي",
+      "unit_type": "piece",
+      "calculation_mode": "pieces",
+      "dimensions": {
+        "diameter_cm": 30.0
+      },
+      "source_page": 9
+    },
+    {
+      "code": "R5",
+      "name": "صرة سقف متعددة الحلقات 70 سم",
+      "category": "صرر",
+      "brand": "السويدي",
+      "unit_type": "piece",
+      "calculation_mode": "pieces",
+      "dimensions": {
+        "diameter_cm": 70.0
+      },
+      "source_page": 10
+    },
+    {
+      "code": "R6",
+      "name": "صرة سقف متعددة الحلقات 60 سم",
+      "category": "صرر",
+      "brand": "السويدي",
+      "unit_type": "piece",
+      "calculation_mode": "pieces",
+      "dimensions": {
+        "diameter_cm": 60.0
+      },
+      "source_page": 10
+    },
+    {
+      "code": "R7",
+      "name": "صرة سقف متعددة الحلقات 50 سم",
+      "category": "صرر",
+      "brand": "السويدي",
+      "unit_type": "piece",
+      "calculation_mode": "pieces",
+      "dimensions": {
+        "diameter_cm": 50.0
+      },
+      "source_page": 10
+    },
+    {
+      "code": "R8",
+      "name": "صرة سقف متعددة الحلقات 30 سم",
+      "category": "صرر",
+      "brand": "السويدي",
+      "unit_type": "piece",
+      "calculation_mode": "pieces",
+      "dimensions": {
+        "diameter_cm": 30.0
+      },
+      "source_page": 10
+    },
+    {
+      "code": "011",
+      "name": "كرنيشة سقف كلاسيك باروك عريضة 16×14 سم",
+      "category": "كرانيش",
+      "brand": "السويدي",
+      "unit_type": "linear_meter",
+      "calculation_mode": "linearMeter",
+      "dimensions": {
+        "ceiling_projection_cm": 16.0,
+        "wall_drop_cm": 14.0,
+        "length_cm": 240.0
+      },
+      "source_page": 11
+    },
+    {
+      "code": "014",
+      "name": "كرنيشة سقف كلاسيك مسحوبة 9×10 سم",
+      "category": "كرانيش",
+      "brand": "السويدي",
+      "unit_type": "linear_meter",
+      "calculation_mode": "linearMeter",
+      "dimensions": {
+        "ceiling_projection_cm": 9.0,
+        "wall_drop_cm": 10.0,
+        "length_cm": 240.0
+      },
+      "source_page": 12
+    },
+    {
+      "code": "015",
+      "name": "كرنيشة سقف ناعمة 6×6 سم",
+      "category": "كرانيش",
+      "brand": "السويدي",
+      "unit_type": "linear_meter",
+      "calculation_mode": "linearMeter",
+      "dimensions": {
+        "ceiling_projection_cm": 6.0,
+        "wall_drop_cm": 6.0,
+        "length_cm": 240.0
+      },
+      "source_page": 13
+    },
+    {
+      "code": "016",
+      "name": "كرنيشة سقف كلاسيك 5×7 سم",
+      "category": "كرانيش",
+      "brand": "السويدي",
+      "unit_type": "linear_meter",
+      "calculation_mode": "linearMeter",
+      "dimensions": {
+        "ceiling_projection_cm": 5.0,
+        "wall_drop_cm": 7.0,
+        "length_cm": 240.0
+      },
+      "source_page": 14
+    },
+    {
+      "code": "018",
+      "name": "كرنيشة سقف مودرن 6×7 سم",
+      "category": "كرانيش",
+      "brand": "السويدي",
+      "unit_type": "linear_meter",
+      "calculation_mode": "linearMeter",
+      "dimensions": {
+        "ceiling_projection_cm": 6.0,
+        "wall_drop_cm": 7.0,
+        "length_cm": 240.0
+      },
+      "source_page": 15
+    },
+    {
+      "code": "019",
+      "name": "كرنيشة سقف كلاسيك 11×11 سم",
+      "category": "كرانيش",
+      "brand": "السويدي",
+      "unit_type": "linear_meter",
+      "calculation_mode": "linearMeter",
+      "dimensions": {
+        "ceiling_projection_cm": 11.0,
+        "wall_drop_cm": 11.0,
+        "length_cm": 240.0
+      },
+      "source_page": 16
+    },
+    {
+      "code": "020",
+      "name": "كرنيشة سقف كلاسيك 11×12 سم",
+      "category": "كرانيش",
+      "brand": "السويدي",
+      "unit_type": "linear_meter",
+      "calculation_mode": "linearMeter",
+      "dimensions": {
+        "ceiling_projection_cm": 11.0,
+        "wall_drop_cm": 12.0,
+        "length_cm": 240.0
+      },
+      "source_page": 17
+    },
+    {
+      "code": "021",
+      "name": "كرنيشة سقف 12×10.5 سم",
+      "category": "كرانيش",
+      "brand": "السويدي",
+      "unit_type": "linear_meter",
+      "calculation_mode": "linearMeter",
+      "dimensions": {
+        "ceiling_projection_cm": 12.0,
+        "wall_drop_cm": 10.5,
+        "length_cm": 240.0
+      },
+      "source_page": 18
+    },
+    {
+      "code": "022",
+      "name": "كرنيشة سقف كلاسيك ضخمة 14×16 سم",
+      "category": "كرانيش",
+      "brand": "السويدي",
+      "unit_type": "linear_meter",
+      "calculation_mode": "linearMeter",
+      "dimensions": {
+        "ceiling_projection_cm": 14.0,
+        "wall_drop_cm": 16.0,
+        "length_cm": 240.0
+      },
+      "source_page": 19
+    },
+    {
+      "code": "051",
+      "name": "كرنيشة سقف مسحوبة 7.5×9 سم",
+      "category": "كرانيش",
+      "brand": "السويدي",
+      "unit_type": "linear_meter",
+      "calculation_mode": "linearMeter",
+      "dimensions": {
+        "ceiling_projection_cm": 7.5,
+        "wall_drop_cm": 9.0,
+        "length_cm": 240.0
+      },
+      "source_page": 20
+    },
+    {
+      "code": "035",
+      "name": "كرنيشة سقف كلاسيك 12×12 سم",
+      "category": "كرانيش",
+      "brand": "السويدي",
+      "unit_type": "linear_meter",
+      "calculation_mode": "linearMeter",
+      "dimensions": {
+        "ceiling_projection_cm": 12.0,
+        "wall_drop_cm": 12.0,
+        "length_cm": 240.0
+      },
+      "source_page": 21
+    },
+    {
+      "code": "057",
+      "name": "كرنيشة سقف مدرجة 7×7 سم",
+      "category": "كرانيش",
+      "brand": "السويدي",
+      "unit_type": "linear_meter",
+      "calculation_mode": "linearMeter",
+      "dimensions": {
+        "ceiling_projection_cm": 7.0,
+        "wall_drop_cm": 7.0,
+        "length_cm": 240.0
+      },
+      "source_page": 22
+    },
+    {
+      "code": "L002",
+      "name": "بيت نور بديل الجبس بورد U-Shape 15 سم",
+      "category": "بيت نور",
+      "brand": "السويدي",
+      "unit_type": "linear_meter",
+      "calculation_mode": "linearMeter",
+      "dimensions": {
+        "width_cm": 15.0,
+        "drop_cm": 5.0,
+        "inner_lip_cm": 1.5,
+        "length_cm": 240.0
+      },
+      "source_page": 23
+    },
+    {
+      "code": "L001",
+      "name": "بيت نور بديل الجبس بورد معلق Double Channel 25 سم",
+      "category": "بيت نور",
+      "brand": "السويدي",
+      "unit_type": "linear_meter",
+      "calculation_mode": "linearMeter",
+      "dimensions": {
+        "width_cm": 25.0,
+        "drop_cm": 6.0,
+        "length_cm": 240.0
+      },
+      "source_page": 24
+    },
+    {
+      "code": "L003",
+      "name": "كرنيشة بيت نور إضاءة مخفية دافئة 6.5×5.1 سم",
+      "category": "بيت نور",
+      "brand": "السويدي",
+      "unit_type": "linear_meter",
+      "calculation_mode": "linearMeter",
+      "dimensions": {
+        "ceiling_projection_cm": 6.5,
+        "wall_drop_cm": 5.1,
+        "diagonal_cm": 8.0,
+        "length_cm": 240.0
+      },
+      "source_page": 25
+    },
+    {
+      "code": "L004",
+      "name": "كرنيشة بيت نور ناعمة 4.5×8 سم",
+      "category": "بيت نور",
+      "brand": "السويدي",
+      "unit_type": "linear_meter",
+      "calculation_mode": "linearMeter",
+      "dimensions": {
+        "ceiling_projection_cm": 4.5,
+        "wall_drop_cm": 8.0,
+        "diagonal_cm": 9.0,
+        "length_cm": 240.0
+      },
+      "source_page": 26
+    },
+    {
+      "code": "L005",
+      "name": "كرنيشة بيت نور كلاسيك مقوسة 6.1×9.5 سم",
+      "category": "بيت نور",
+      "brand": "السويدي",
+      "unit_type": "linear_meter",
+      "calculation_mode": "linearMeter",
+      "dimensions": {
+        "ceiling_projection_cm": 6.1,
+        "wall_drop_cm": 9.5,
+        "diagonal_cm": 11.3,
+        "length_cm": 240.0
+      },
+      "source_page": 27
+    },
+    {
+      "code": "SK.L2",
+      "name": "وزرة أرضية فيوتك 10 سم مضيئة",
+      "category": "وزرات",
+      "brand": "فيوتك",
+      "unit_type": "rod",
+      "calculation_mode": "linearMeter",
+      "dimensions": {
+        "height_cm": 10.0,
+        "length_cm": 240.0
+      },
+      "source_page": 28
+    },
+    {
+      "code": "ML-24015",
+      "name": "وزرة أرضية كلاسيك ليد 15 سم",
+      "category": "وزرات",
+      "brand": "CM",
+      "unit_type": "rod",
+      "calculation_mode": "linearMeter",
+      "dimensions": {
+        "height_cm": 15.0,
+        "length_cm": 240.0
+      },
+      "source_page": 29
+    },
+    {
+      "code": "SM-WHITE-JC10",
+      "name": "وزرة أرضية PS ليد بيضاء مط 10 سم",
+      "category": "وزرات",
+      "brand": "السويدي",
+      "unit_type": "rod",
+      "calculation_mode": "linearMeter",
+      "dimensions": {
+        "height_cm": 10.0,
+        "length_cm": 240.0
+      },
+      "source_page": 30
+    },
+    {
+      "code": "PS10-STD",
+      "name": "وزرة أرضية PS سادة 10 سم",
+      "category": "وزرات",
+      "brand": "السويدي",
+      "unit_type": "rod",
+      "calculation_mode": "linearMeter",
+      "dimensions": {
+        "height_cm": 10.0,
+        "length_cm": 240.0
+      },
+      "source_page": 31
+    },
+    {
+      "code": "WR1",
+      "name": "وزرة أرضية PS سادة 7.5 سم",
+      "category": "وزرات",
+      "brand": "السويدي",
+      "unit_type": "rod",
+      "calculation_mode": "linearMeter",
+      "dimensions": {
+        "height_cm": 7.5,
+        "thickness_cm": 0.9,
+        "length_cm": 240.0
+      },
+      "pricing": {
+        "price_per_meter": 42.50,
+        "unit_price": 102.00,
+        "box_meters": 240.0,
+        "box_price": 10200.00
+      },
+      "source_page": 32
+    },
+    {
+      "code": "WR1-LED",
+      "name": "وزرة أرضية PS ليد 7.5 سم",
+      "category": "وزرات",
+      "brand": "السويدي",
+      "unit_type": "rod",
+      "calculation_mode": "linearMeter",
+      "dimensions": {
+        "height_cm": 7.5,
+        "thickness_cm": 0.9,
+        "length_cm": 240.0
+      },
+      "pricing": {
+        "price_per_meter": 52.50,
+        "unit_price": 126.00,
+        "box_meters": 240.0,
+        "box_price": 12600.00
+      },
+      "source_page": 32
+    },
+    {
+      "code": "WR2",
+      "name": "وزرة أرضية PS سادة 10 سم",
+      "category": "وزرات",
+      "brand": "السويدي",
+      "unit_type": "rod",
+      "calculation_mode": "linearMeter",
+      "dimensions": {
+        "height_cm": 10.0,
+        "thickness_cm": 1.7,
+        "length_cm": 240.0
+      },
+      "pricing": {
+        "price_per_meter": 82.50,
+        "unit_price": 198.00,
+        "box_meters": 168.0,
+        "box_price": 13860.00
+      },
+      "source_page": 32
+    },
+    {
+      "code": "WR2-LED",
+      "name": "وزرة أرضية PS ليد 10 سم",
+      "category": "وزرات",
+      "brand": "السويدي",
+      "unit_type": "rod",
+      "calculation_mode": "linearMeter",
+      "dimensions": {
+        "height_cm": 10.0,
+        "thickness_cm": 1.7,
+        "length_cm": 240.0
+      },
+      "pricing": {
+        "price_per_meter": 92.50,
+        "unit_price": 222.00,
+        "box_meters": 168.0,
+        "box_price": 15540.00
+      },
+      "source_page": 32
+    },
+    {
+      "code": "WR3",
+      "name": "وزرة أرضية PS سادة 12 سم",
+      "category": "وزرات",
+      "brand": "السويدي",
+      "unit_type": "rod",
+      "calculation_mode": "linearMeter",
+      "dimensions": {
+        "height_cm": 12.0,
+        "thickness_cm": 1.9,
+        "length_cm": 240.0
+      },
+      "pricing": {
+        "price_per_meter": 110.00,
+        "unit_price": 264.00,
+        "box_meters": 96.0,
+        "box_price": 10560.00
+      },
+      "source_page": 32
+    },
+    {
+      "code": "WR3-LED",
+      "name": "وزرة أرضية PS ليد 12 سم",
+      "category": "وزرات",
+      "brand": "السويدي",
+      "unit_type": "rod",
+      "calculation_mode": "linearMeter",
+      "dimensions": {
+        "height_cm": 12.0,
+        "thickness_cm": 1.9,
+        "length_cm": 240.0
+      },
+      "pricing": {
+        "price_per_meter": 120.00,
+        "unit_price": 288.00,
+        "box_meters": 96.0,
+        "box_price": 11520.00
+      },
+      "source_page": 32
+    },
+    {
+      "code": "WR4",
+      "name": "وزرة أرضية PS سادة 15 سم",
+      "category": "وزرات",
+      "brand": "السويدي",
+      "unit_type": "rod",
+      "calculation_mode": "linearMeter",
+      "dimensions": {
+        "height_cm": 15.0,
+        "thickness_cm": 2.3,
+        "length_cm": 240.0
+      },
+      "pricing": {
+        "price_per_meter": 110.00,
+        "unit_price": 264.00,
+        "box_meters": 96.0,
+        "box_price": 10560.00
+      },
+      "source_page": 32
+    },
+    {
+      "code": "WR4-LED",
+      "name": "وزرة أرضية PS ليد 15 سم",
+      "category": "وزرات",
+      "brand": "السويدي",
+      "unit_type": "rod",
+      "calculation_mode": "linearMeter",
+      "dimensions": {
+        "height_cm": 15.0,
+        "thickness_cm": 2.3,
+        "length_cm": 240.0
+      },
+      "pricing": {
+        "price_per_meter": 120.00,
+        "unit_price": 288.00,
+        "box_meters": 96.0,
+        "box_price": 11520.00
+      },
+      "source_page": 32
+    },
+    {
+      "code": "M033",
+      "name": "صرة سقف كلاسيك دائرية 30 سم",
+      "category": "صرر",
+      "brand": "السويدي",
+      "unit_type": "piece",
+      "calculation_mode": "pieces",
+      "dimensions": { "diameter_cm": 30.0 },
+      "source_page": 33
+    },
+    {
+      "code": "M034",
+      "name": "صرة سقف كلاسيك دائرية 40 سم",
+      "category": "صرر",
+      "brand": "السويدي",
+      "unit_type": "piece",
+      "calculation_mode": "pieces",
+      "dimensions": { "diameter_cm": 40.0 },
+      "source_page": 33
+    },
+    {
+      "code": "M035",
+      "name": "صرة سقف كلاسيك دائرية 50 سم",
+      "category": "صرر",
+      "brand": "السويدي",
+      "unit_type": "piece",
+      "calculation_mode": "pieces",
+      "dimensions": { "diameter_cm": 50.0 },
+      "source_page": 33
+    },
+    {
+      "code": "M036",
+      "name": "صرة سقف كلاسيك دائرية 60 سم",
+      "category": "صرر",
+      "brand": "السويدي",
+      "unit_type": "piece",
+      "calculation_mode": "pieces",
+      "dimensions": { "diameter_cm": 60.0 },
+      "source_page": 33
+    },
+    {
+      "code": "M037",
+      "name": "صرة سقف كلاسيك دائرية 40 سم (نمط 2)",
+      "category": "صرر",
+      "brand": "السويدي",
+      "unit_type": "piece",
+      "calculation_mode": "pieces",
+      "dimensions": { "diameter_cm": 40.0 },
+      "source_page": 33
+    },
+    {
+      "code": "M017",
+      "name": "صرة سقف كلاسيك صغيرة 15 سم",
+      "category": "صرر",
+      "brand": "السويدي",
+      "unit_type": "piece",
+      "calculation_mode": "pieces",
+      "dimensions": { "diameter_cm": 15.0 },
+      "source_page": 33
+    },
+    {
+      "code": "MOD3",
+      "name": "صرة سقف زهرة 30 سم",
+      "category": "صرر",
+      "brand": "السويدي",
+      "unit_type": "piece",
+      "calculation_mode": "pieces",
+      "dimensions": { "diameter_cm": 30.0 },
+      "source_page": 34
+    },
+    {
+      "code": "MOD4",
+      "name": "صرة سقف زهرة باروك 31 سم",
+      "category": "صرر",
+      "brand": "السويدي",
+      "unit_type": "piece",
+      "calculation_mode": "pieces",
+      "dimensions": { "diameter_cm": 31.0 },
+      "source_page": 34
+    },
+    {
+      "code": "MOD7",
+      "name": "صرة سقف شمس 50 سم",
+      "category": "صرر",
+      "brand": "السويدي",
+      "unit_type": "piece",
+      "calculation_mode": "pieces",
+      "dimensions": { "diameter_cm": 50.0 },
+      "source_page": 34
+    },
+    {
+      "code": "MOD11",
+      "name": "صرة سقف مزخرفة 34 سم",
+      "category": "صرر",
+      "brand": "السويدي",
+      "unit_type": "piece",
+      "calculation_mode": "pieces",
+      "dimensions": { "diameter_cm": 34.0 },
+      "source_page": 34
+    },
+    {
+      "code": "MOD5",
+      "name": "صرة سقف زهرة مروحية 40 سم",
+      "category": "صرر",
+      "brand": "السويدي",
+      "unit_type": "piece",
+      "calculation_mode": "pieces",
+      "dimensions": { "diameter_cm": 40.0 },
+      "source_page": 34
+    },
+    {
+      "code": "MOD9",
+      "name": "صرة سقف زهرة ناعمة 40 سم",
+      "category": "صرر",
+      "brand": "السويدي",
+      "unit_type": "piece",
+      "calculation_mode": "pieces",
+      "dimensions": { "diameter_cm": 40.0 },
+      "source_page": 34
+    },
+    {
+      "code": "M025",
+      "name": "صرة سقف إغريقية يونانية 45 سم",
+      "category": "صرر",
+      "brand": "السويدي",
+      "unit_type": "piece",
+      "calculation_mode": "pieces",
+      "dimensions": { "diameter_cm": 45.0 },
+      "source_page": 35
+    },
+    {
+      "code": "M022",
+      "name": "صرة سقف شمس شعاعية 45 سم",
+      "category": "صرر",
+      "brand": "السويدي",
+      "unit_type": "piece",
+      "calculation_mode": "pieces",
+      "dimensions": { "diameter_cm": 45.0 },
+      "source_page": 35
+    },
+    {
+      "code": "M030",
+      "name": "صرة سقف أوراق شجر كلاسيك 47 سم",
+      "category": "صرر",
+      "brand": "السويدي",
+      "unit_type": "piece",
+      "calculation_mode": "pieces",
+      "dimensions": { "diameter_cm": 47.0 },
+      "source_page": 35
+    },
+    {
+      "code": "M031",
+      "name": "صرة سقف زهرة متداخلة 47 سم",
+      "category": "صرر",
+      "brand": "السويدي",
+      "unit_type": "piece",
+      "calculation_mode": "pieces",
+      "dimensions": { "diameter_cm": 47.0 },
+      "source_page": 35
+    },
+    {
+      "code": "M045",
+      "name": "صرة سقف وردة كلاسيك 48 سم",
+      "category": "صرر",
+      "brand": "السويدي",
+      "unit_type": "piece",
+      "calculation_mode": "pieces",
+      "dimensions": { "diameter_cm": 48.0 },
+      "source_page": 35
+    },
+    {
+      "code": "M008",
+      "name": "صرة سقف دائرية ناعمة 49 سم",
+      "category": "صرر",
+      "brand": "السويدي",
+      "unit_type": "piece",
+      "calculation_mode": "pieces",
+      "dimensions": { "diameter_cm": 49.0 },
+      "source_page": 35
+    },
+    {
+      "code": "M015",
+      "name": "صرة سقف صغيرة كلاسيك 19 سم",
+      "category": "صرر",
+      "brand": "السويدي",
+      "unit_type": "piece",
+      "calculation_mode": "pieces",
+      "dimensions": { "diameter_cm": 19.0 },
+      "source_page": 36
+    },
+    {
+      "code": "M013",
+      "name": "صرة سقف زهرة صغيرة 24 سم",
+      "category": "صرر",
+      "brand": "السويدي",
+      "unit_type": "piece",
+      "calculation_mode": "pieces",
+      "dimensions": { "diameter_cm": 24.0 },
+      "source_page": 36
+    },
+    {
+      "code": "M006",
+      "name": "صرة سقف كلاسيك 28 سم",
+      "category": "صرر",
+      "brand": "السويدي",
+      "unit_type": "piece",
+      "calculation_mode": "pieces",
+      "dimensions": { "diameter_cm": 28.0 },
+      "source_page": 36
+    },
+    {
+      "code": "M016",
+      "name": "صرة سقف دائرية سادة 28 سم",
+      "category": "صرر",
+      "brand": "السويدي",
+      "unit_type": "piece",
+      "calculation_mode": "pieces",
+      "dimensions": { "diameter_cm": 28.0 },
+      "source_page": 36
+    },
+    {
+      "code": "M014",
+      "name": "صرة سقف زهرة أوراق شجر 29 سم",
+      "category": "صرر",
+      "brand": "السويدي",
+      "unit_type": "piece",
+      "calculation_mode": "pieces",
+      "dimensions": { "diameter_cm": 29.0 },
+      "source_page": 36
+    },
+    {
+      "code": "M002",
+      "name": "صرة سقف حلزونية مروحية 31 سم",
+      "category": "صرر",
+      "brand": "السويدي",
+      "unit_type": "piece",
+      "calculation_mode": "pieces",
+      "dimensions": { "diameter_cm": 31.0 },
+      "source_page": 36
+    },
+    {
+      "code": "M024",
+      "name": "صرة سقف كلاسيك كبيرة 76.5 سم",
+      "category": "صرر",
+      "brand": "السويدي",
+      "unit_type": "piece",
+      "calculation_mode": "pieces",
+      "dimensions": { "diameter_cm": 76.5 },
+      "source_page": 37
+    },
+    {
+      "code": "M069",
+      "name": "صرة سقف بيضاوية مزخرفة فاخرة 76.5×61.5 سم",
+      "category": "صرر",
+      "brand": "السويدي",
+      "unit_type": "piece",
+      "calculation_mode": "pieces",
+      "dimensions": { "length_cm": 76.5, "width_cm": 61.5 },
+      "source_page": 37
+    },
+    {
+      "code": "M064",
+      "name": "صرة سقف بيضاوية مدرجة 47×43 سم",
+      "category": "صرر",
+      "brand": "السويدي",
+      "unit_type": "piece",
+      "calculation_mode": "pieces",
+      "dimensions": { "length_cm": 47.0, "width_cm": 43.0 },
+      "source_page": 37
+    },
+    {
+      "code": "M001",
+      "name": "صرة سقف بيضاوية أفقية 61×31 سم",
+      "category": "صرر",
+      "brand": "السويدي",
+      "unit_type": "piece",
+      "calculation_mode": "pieces",
+      "dimensions": { "length_cm": 61.0, "width_cm": 31.0 },
+      "source_page": 37
+    },
+    {
+      "code": "M070",
+      "name": "صرة سقف بيضاوية ناعمة 29×20 سم",
+      "category": "صرر",
+      "brand": "السويدي",
+      "unit_type": "piece",
+      "calculation_mode": "pieces",
+      "dimensions": { "length_cm": 29.0, "width_cm": 20.0 },
+      "source_page": 37
+    },
+    {
+      "code": "M065",
+      "name": "صرة سقف بيضاوية زهرة 31×40 سم",
+      "category": "صرر",
+      "brand": "السويدي",
+      "unit_type": "piece",
+      "calculation_mode": "pieces",
+      "dimensions": { "length_cm": 40.0, "width_cm": 31.0 },
+      "source_page": 37
+    },
+    {
+      "code": "M027",
+      "name": "صرة سقف أوراق ريشية 50 سم",
+      "category": "صرر",
+      "brand": "السويدي",
+      "unit_type": "piece",
+      "calculation_mode": "pieces",
+      "dimensions": { "diameter_cm": 50.0 },
+      "source_page": 38
+    },
+    {
+      "code": "M028",
+      "name": "صرة سقف نجمة ثمانية 50 سم",
+      "category": "صرر",
+      "brand": "السويدي",
+      "unit_type": "piece",
+      "calculation_mode": "pieces",
+      "dimensions": { "diameter_cm": 50.0 },
+      "source_page": 38
+    },
+    {
+      "code": "M029",
+      "name": "صرة سقف هندسية نقطية 51.5 سم",
+      "category": "صرر",
+      "brand": "السويدي",
+      "unit_type": "piece",
+      "calculation_mode": "pieces",
+      "dimensions": { "diameter_cm": 51.5 },
+      "source_page": 38
+    },
+    {
+      "code": "M019",
+      "name": "صرة سقف أوراق دوارة 53 سم",
+      "category": "صرر",
+      "brand": "السويدي",
+      "unit_type": "piece",
+      "calculation_mode": "pieces",
+      "dimensions": { "diameter_cm": 53.0 },
+      "source_page": 38
+    },
+    {
+      "code": "M067",
+      "name": "صرة سقف باروك فرنسي فاخر 55 سم",
+      "category": "صرر",
+      "brand": "السويدي",
+      "unit_type": "piece",
+      "calculation_mode": "pieces",
+      "dimensions": { "diameter_cm": 55.0 },
+      "source_page": 38
+    },
+    {
+      "code": "M060",
+      "name": "صرة سقف إسلامية كلاسيك 58 سم",
+      "category": "صرر",
+      "brand": "السويدي",
+      "unit_type": "piece",
+      "calculation_mode": "pieces",
+      "dimensions": { "diameter_cm": 58.0 },
+      "source_page": 38
+    },
+    {
+      "code": "M018",
+      "name": "صرة سقف حلقات مدرجة 60 سم",
+      "category": "صرر",
+      "brand": "السويدي",
+      "unit_type": "piece",
+      "calculation_mode": "pieces",
+      "dimensions": { "diameter_cm": 60.0 },
+      "source_page": 39
+    },
+    {
+      "code": "M010",
+      "name": "صرة سقف قبة دائرية 60 سم",
+      "category": "صرر",
+      "brand": "السويدي",
+      "unit_type": "piece",
+      "calculation_mode": "pieces",
+      "dimensions": { "diameter_cm": 60.0 },
+      "source_page": 39
+    },
+    {
+      "code": "M012",
+      "name": "صرة سقف زخارف ملكية 67.5 سم",
+      "category": "صرر",
+      "brand": "السويدي",
+      "unit_type": "piece",
+      "calculation_mode": "pieces",
+      "dimensions": { "diameter_cm": 67.5 },
+      "source_page": 39
+    },
+    {
+      "code": "M063",
+      "name": "صرة سقف نقوش إغريقية 65 سم",
+      "category": "صرر",
+      "brand": "السويدي",
+      "unit_type": "piece",
+      "calculation_mode": "pieces",
+      "dimensions": { "diameter_cm": 65.0 },
+      "source_page": 39
+    },
+    {
+      "code": "M061",
+      "name": "صرة سقف تاج ملكي 69.5 سم",
+      "category": "صرر",
+      "brand": "السويدي",
+      "unit_type": "piece",
+      "calculation_mode": "pieces",
+      "dimensions": { "diameter_cm": 69.5 },
+      "source_page": 39
+    },
+    {
+      "code": "M062",
+      "name": "صرة سقف إمبراطورية 70 سم",
+      "category": "صرر",
+      "brand": "السويدي",
+      "unit_type": "piece",
+      "calculation_mode": "pieces",
+      "dimensions": { "diameter_cm": 70.0 },
+      "source_page": 39
+    },
+    {
+      "code": "M020",
+      "name": "صرة سقف كلاسيك حلقات 40 سم",
+      "category": "صرر",
+      "brand": "السويدي",
+      "unit_type": "piece",
+      "calculation_mode": "pieces",
+      "dimensions": { "diameter_cm": 40.0 },
+      "source_page": 40
+    },
+    {
+      "code": "M131",
+      "name": "صرة سقف وردة لوتس 20 سم",
+      "category": "صرر",
+      "brand": "السويدي",
+      "unit_type": "piece",
+      "calculation_mode": "pieces",
+      "dimensions": { "diameter_cm": 20.0 },
+      "source_page": 40
+    },
+    {
+      "code": "M021",
+      "name": "صرة سقف شمس 40 سم",
+      "category": "صرر",
+      "brand": "السويدي",
+      "unit_type": "piece",
+      "calculation_mode": "pieces",
+      "dimensions": { "diameter_cm": 40.0 },
+      "source_page": 40
+    },
+    {
+      "code": "M023",
+      "name": "صرة سقف وردية 42 سم",
+      "category": "صرر",
+      "brand": "السويدي",
+      "unit_type": "piece",
+      "calculation_mode": "pieces",
+      "dimensions": { "diameter_cm": 42.0 },
+      "source_page": 40
+    },
+    {
+      "code": "M066",
+      "name": "صرة سقف باروك عثماني 44 سم",
+      "category": "صرر",
+      "brand": "السويدي",
+      "unit_type": "piece",
+      "calculation_mode": "pieces",
+      "dimensions": { "diameter_cm": 44.0 },
+      "source_page": 40
+    },
+    {
+      "code": "M026",
+      "name": "صرة سقف كلاسيك وردات 45 سم",
+      "category": "صرر",
+      "brand": "السويدي",
+      "unit_type": "piece",
+      "calculation_mode": "pieces",
+      "dimensions": { "diameter_cm": 45.0 },
+      "source_page": 40
+    },
+    {
+      "code": "RO01",
+      "name": "إطار صرة مفرغة حلقة نحيفة 18 سم",
+      "category": "صرر",
+      "brand": "السويدي",
+      "unit_type": "piece",
+      "calculation_mode": "pieces",
+      "dimensions": { "diameter_cm": 18.0 },
+      "source_page": 41
+    },
+    {
+      "code": "RO02",
+      "name": "إطار صرة مفرغة حلقة 24 سم",
+      "category": "صرر",
+      "brand": "السويدي",
+      "unit_type": "piece",
+      "calculation_mode": "pieces",
+      "dimensions": { "diameter_cm": 24.0 },
+      "source_page": 41
+    },
+    {
+      "code": "RO03",
+      "name": "إطار صرة مفرغة حلقة 29 سم",
+      "category": "صرر",
+      "brand": "السويدي",
+      "unit_type": "piece",
+      "calculation_mode": "pieces",
+      "dimensions": { "diameter_cm": 29.0 },
+      "source_page": 41
+    },
+    {
+      "code": "RO04",
+      "name": "إطار صرة مفرغة حلقة 30 سم",
+      "category": "صرر",
+      "brand": "السويدي",
+      "unit_type": "piece",
+      "calculation_mode": "pieces",
+      "dimensions": { "diameter_cm": 30.0 },
+      "source_page": 41
+    },
+    {
+      "code": "RO05",
+      "name": "إطار صرة مفرغة حلقة 36 سم",
+      "category": "صرر",
+      "brand": "السويدي",
+      "unit_type": "piece",
+      "calculation_mode": "pieces",
+      "dimensions": { "diameter_cm": 36.0 },
+      "source_page": 41
+    },
+    {
+      "code": "RO06",
+      "name": "إطار صرة مفرغة حلقة 52 سم",
+      "category": "صرر",
+      "brand": "السويدي",
+      "unit_type": "piece",
+      "calculation_mode": "pieces",
+      "dimensions": { "diameter_cm": 52.0 },
+      "source_page": 41
+    },
+    {
+      "code": "RO07",
+      "name": "إطار صرة مفرغة حلقة عريضة 75 سم",
+      "category": "صرر",
+      "brand": "السويدي",
+      "unit_type": "piece",
+      "calculation_mode": "pieces",
+      "dimensions": { "diameter_cm": 75.0 },
+      "source_page": 41
+    },
+    {
+      "code": "E030",
+      "name": "زاوية كورنر خارجية 3×3 سم",
+      "category": "إكسسوارات",
+      "brand": "MAS Tec+",
+      "unit_type": "rod",
+      "calculation_mode": "linearMeter",
+      "dimensions": { "width_cm": 3.0, "height_cm": 3.0, "length_cm": 240.0 },
+      "source_page": 42
+    },
+    {
+      "code": "E040",
+      "name": "زاوية كورنر خارجية 4×3 سم",
+      "category": "إكسسوارات",
+      "brand": "MAS Tec+",
+      "unit_type": "rod",
+      "calculation_mode": "linearMeter",
+      "dimensions": { "width_cm": 4.0, "height_cm": 3.0, "length_cm": 240.0 },
+      "source_page": 42
+    },
+    {
+      "code": "E050",
+      "name": "زاوية كورنر خارجية 5×1 سم",
+      "category": "إكسسوارات",
+      "brand": "MAS Tec+",
+      "unit_type": "rod",
+      "calculation_mode": "linearMeter",
+      "dimensions": { "width_cm": 5.0, "height_cm": 1.0, "length_cm": 240.0 },
+      "source_page": 42
+    },
+    {
+      "code": "E060",
+      "name": "زاوية كورنر مقفلة 3×3 سم",
+      "category": "إكسسوارات",
+      "brand": "MAS Tec+",
+      "unit_type": "rod",
+      "calculation_mode": "linearMeter",
+      "dimensions": { "width_cm": 3.0, "height_cm": 3.0, "length_cm": 240.0 },
+      "source_page": 42
+    },
+    {
+      "code": "W070",
+      "name": "عمود ديكور مسنن 7.5×15 سم",
+      "category": "بانوهات",
+      "brand": "MAS Tec+",
+      "unit_type": "rod",
+      "calculation_mode": "rod",
+      "dimensions": { "width_cm": 7.5, "thickness_cm": 15.0, "length_cm": 240.0 },
+      "source_page": 42
+    },
+    {
+      "code": "W080",
+      "name": "عمود ديكور متدرج 7.5×15 سم",
+      "category": "بانوهات",
+      "brand": "MAS Tec+",
+      "unit_type": "rod",
+      "calculation_mode": "rod",
+      "dimensions": { "width_cm": 7.5, "thickness_cm": 15.0, "length_cm": 240.0 },
+      "source_page": 42
+    },
+    {
+      "code": "D011",
+      "name": "بلاطة حائط 3D فقاعات ودوائر 50×50 سم",
+      "category": "بديل حجر",
+      "brand": "MAS Tec+",
+      "unit_type": "piece",
+      "calculation_mode": "squareMeter",
+      "dimensions": { "width_cm": 50.0, "height_cm": 50.0, "coverage_area_sqm": 0.25 },
+      "source_page": 43
+    },
+    {
+      "code": "D012",
+      "name": "بلاطة حائط 3D مربعات كلاسيك 50×50 سم",
+      "category": "بديل حجر",
+      "brand": "MAS Tec+",
+      "unit_type": "piece",
+      "calculation_mode": "squareMeter",
+      "dimensions": { "width_cm": 50.0, "height_cm": 50.0, "coverage_area_sqm": 0.25 },
+      "source_page": 43
+    },
+    {
+      "code": "D001",
+      "name": "بلاطة حائط 3D كابوتونيه معينات 50×50 سم",
+      "category": "بديل حجر",
+      "brand": "MAS Tec+",
+      "unit_type": "piece",
+      "calculation_mode": "squareMeter",
+      "dimensions": { "width_cm": 50.0, "height_cm": 50.0, "coverage_area_sqm": 0.25 },
+      "source_page": 44
+    },
+    {
+      "code": "D002",
+      "name": "بلاطة حائط 3D كابوتونيه كلاسيك 40×40 سم",
+      "category": "بديل حجر",
+      "brand": "MAS Tec+",
+      "unit_type": "piece",
+      "calculation_mode": "squareMeter",
+      "dimensions": { "width_cm": 40.0, "height_cm": 40.0, "coverage_area_sqm": 0.16 },
+      "source_page": 44
+    },
+    {
+      "code": "D003",
+      "name": "بلاطة حائط 3D أوريغامي هندسي 50×50 سم",
+      "category": "بديل حجر",
+      "brand": "MAS Tec+",
+      "unit_type": "piece",
+      "calculation_mode": "squareMeter",
+      "dimensions": { "width_cm": 50.0, "height_cm": 50.0, "coverage_area_sqm": 0.25 },
+      "source_page": 45
+    },
+    {
+      "code": "D004",
+      "name": "بلاطة حائط 3D خطوط نجمية 50×50 سم",
+      "category": "بديل حجر",
+      "brand": "MAS Tec+",
+      "unit_type": "piece",
+      "calculation_mode": "squareMeter",
+      "dimensions": { "width_cm": 50.0, "height_cm": 50.0, "coverage_area_sqm": 0.25 },
+      "source_page": 45
+    },
+    {
+      "code": "D005",
+      "name": "بلاطة حائط 3D أمواج بحر ويفز 50×50 سم",
+      "category": "بديل حجر",
+      "brand": "MAS Tec+",
+      "unit_type": "piece",
+      "calculation_mode": "squareMeter",
+      "dimensions": { "width_cm": 50.0, "height_cm": 50.0, "coverage_area_sqm": 0.25 },
+      "source_page": 46
+    },
+    {
+      "code": "D006",
+      "name": "بلاطة حائط 3D زهور ملمس حجري 40×40 سم",
+      "category": "بديل حجر",
+      "brand": "MAS Tec+",
+      "unit_type": "piece",
+      "calculation_mode": "squareMeter",
+      "dimensions": { "width_cm": 40.0, "height_cm": 40.0, "coverage_area_sqm": 0.16 },
+      "source_page": 46
+    },
+    {
+      "code": "D007",
+      "name": "بلاطة حائط 3D أمواج متموجة أفقية 50×50 سم",
+      "category": "بديل حجر",
+      "brand": "MAS Tec+",
+      "unit_type": "piece",
+      "calculation_mode": "squareMeter",
+      "dimensions": { "width_cm": 50.0, "height_cm": 50.0, "coverage_area_sqm": 0.25 },
+      "source_page": 47
+    },
+    {
+      "code": "D008",
+      "name": "بلاطة حائط 3D خطوط منحنية تجريدية 50×50 سم",
+      "category": "بديل حجر",
+      "brand": "MAS Tec+",
+      "unit_type": "piece",
+      "calculation_mode": "squareMeter",
+      "dimensions": { "width_cm": 50.0, "height_cm": 50.0, "coverage_area_sqm": 0.25 },
+      "source_page": 47
+    },
+    {
+      "code": "D009",
+      "name": "بلاطة حائط 3D كتل حجرية متراصة 50×50 سم",
+      "category": "بديل حجر",
+      "brand": "MAS Tec+",
+      "unit_type": "piece",
+      "calculation_mode": "squareMeter",
+      "dimensions": { "width_cm": 50.0, "height_cm": 50.0, "coverage_area_sqm": 0.25 },
+      "source_page": 48
+    },
+    {
+      "code": "D010",
+      "name": "بلاطة حائط 3D دوائر حلزونية 50×50 سم",
+      "category": "بديل حجر",
+      "brand": "MAS Tec+",
+      "unit_type": "piece",
+      "calculation_mode": "squareMeter",
+      "dimensions": { "width_cm": 50.0, "height_cm": 50.0, "coverage_area_sqm": 0.25 },
+      "source_page": 48
+    },
+    {
+      "code": "D017",
+      "name": "بلاطة حائط 3D أمواج عريضة 80×62 سم",
+      "category": "بديل حجر",
+      "brand": "MAS Tec+",
+      "unit_type": "piece",
+      "calculation_mode": "squareMeter",
+      "dimensions": { "width_cm": 80.0, "height_cm": 62.0, "coverage_area_sqm": 0.496 },
+      "source_page": 49
+    },
+    {
+      "code": "D018",
+      "name": "بلاطة حائط 3D زهور أوريغامي بارزة 50×50 سم",
+      "category": "بديل حجر",
+      "brand": "MAS Tec+",
+      "unit_type": "piece",
+      "calculation_mode": "squareMeter",
+      "dimensions": { "width_cm": 50.0, "height_cm": 50.0, "coverage_area_sqm": 0.25 },
+      "source_page": 49
+    },
+    {
+      "code": "D013",
+      "name": "بلاطة حائط 3D أحجار نهرية بيضاوية 50×50 سم",
+      "category": "بديل حجر",
+      "brand": "MAS Tec+",
+      "unit_type": "piece",
+      "calculation_mode": "squareMeter",
+      "dimensions": { "width_cm": 50.0, "height_cm": 50.0, "coverage_area_sqm": 0.25 },
+      "source_page": 50
+    },
+    {
+      "code": "D014",
+      "name": "بلاطة حائط 3D قوالب طوب متداخلة 80×62 سم",
+      "category": "بديل حجر",
+      "brand": "MAS Tec+",
+      "unit_type": "piece",
+      "calculation_mode": "squareMeter",
+      "dimensions": { "width_cm": 80.0, "height_cm": 62.0, "coverage_area_sqm": 0.496 },
+      "source_page": 50
+    },
+    {
+      "code": "D015",
+      "name": "بلاطة حائط 3D فوم طوب بارز 77.3×70.3 سم",
+      "category": "بديل حجر",
+      "brand": "MAS Tec+",
+      "unit_type": "piece",
+      "calculation_mode": "squareMeter",
+      "dimensions": { "width_cm": 77.3, "height_cm": 70.3, "coverage_area_sqm": 0.543 },
+      "source_page": 51
+    },
+    {
+      "code": "D016",
+      "name": "بلاطة حائط 3D موجات هادئة 80×62 سم",
+      "category": "بديل حجر",
+      "brand": "MAS Tec+",
+      "unit_type": "piece",
+      "calculation_mode": "squareMeter",
+      "dimensions": { "width_cm": 80.0, "height_cm": 62.0, "coverage_area_sqm": 0.496 },
+      "source_page": 51
+    },
+    {
+      "code": "D019",
+      "name": "بلاطة حائط 3D تجاليد طولية مضلعة 50×100 سم",
+      "category": "بديل خشب",
+      "brand": "MAS Tec+",
+      "unit_type": "piece",
+      "calculation_mode": "squareMeter",
+      "dimensions": { "width_cm": 50.0, "height_cm": 100.0, "coverage_area_sqm": 0.50 },
+      "source_page": 52
+    },
+    {
+      "code": "D020",
+      "name": "بلاطة حائط 3D بانوه جداري بارز 50×60 سم",
+      "category": "بانوهات",
+      "brand": "MAS Tec+",
+      "unit_type": "piece",
+      "calculation_mode": "pieces",
+      "dimensions": { "width_cm": 50.0, "height_cm": 60.0 },
+      "source_page": 52
+    },
+    {
+      "code": "D021",
+      "name": "بلاطة حائط 3D بانوه جداري مستطيل 30×60 سم",
+      "category": "بانوهات",
+      "brand": "MAS Tec+",
+      "unit_type": "piece",
+      "calculation_mode": "pieces",
+      "dimensions": { "width_cm": 30.0, "height_cm": 60.0 },
+      "source_page": 52
+    }
+  ]
+}

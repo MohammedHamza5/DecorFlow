@@ -1,0 +1,206 @@
+﻿sku,code,category,category_name_ar,category_name_en,name_ar,color_name_ar,color_name_en,color_hex,color_family,pattern,material,width_cm,length_cm,thickness_mm,notes_ar,source_catalog,source_page,image_page,image_swatch
+CHI-911,911,chipboard,شيبورد,Chipboard,شيبورد 911,بني خشبي,Wood Brown,#92663A,brown,wood,,,,,,كتالوج شيبورد,1,images/pages/CHI-911.jpg,images/swatches/CHI-911.jpg
+CHI-961,961,chipboard,شيبورد,Chipboard,شيبورد 961,بيج خشبى,Beige Wood,#B8A898,beige,Wood Grain,,,,,,كتالوج شيبورد,2,images/pages/CHI-961.jpg,images/swatches/CHI-961.jpg
+CHI-901,901,chipboard,شيبورد,Chipboard,شيبورد 901,بني غامق / خشب جوزي,Dark Brown / Walnut,#543B2B,brown,خشب / حبيبات خشبية,,,,,,كتالوج شيبورد,3,images/pages/CHI-901.jpg,images/swatches/CHI-901.jpg
+CHI-933,933,chipboard,شيبورد,Chipboard,شيبورد 933,بيج خشبي فاتح,Light Wood Beige,#C2B280,beige,wood,,,,,,كتالوج شيبورد,4,images/pages/CHI-933.jpg,images/swatches/CHI-933.jpg
+CHI-940,940,chipboard,شيبورد,Chipboard,شيبورد 940,بني رمادي غامق,Dark Greyish Brown,#4A443E,brown,Wood Grain,,,,,,كتالوج شيبورد,5,images/pages/CHI-940.jpg,images/swatches/CHI-940.jpg
+CHI-930,930,chipboard,شيبورد,Chipboard,شيبورد 930,رمادي فاتح / أبيض,Light Grey / White,#D8DCDE,Grey,خطوط طولية / نسيجي,,,,,,كتالوج شيبورد,6,images/pages/CHI-930.jpg,images/swatches/CHI-930.jpg
+CHI-932,932,chipboard,شيبورد,Chipboard,بديل خشب / ورق حائط بني خشبي,بني خشبي فاتح,Light Wood Brown,#B88E4C,brown,wood,,,,,,كتالوج شيبورد,7,images/pages/CHI-932.jpg,images/swatches/CHI-932.jpg
+CHI-907,907,chipboard,شيبورد,Chipboard,شيبورد 907,بيج خشبي فاتح,Light Beige Wood,#D3C4B1,beige,wood,,,,,,كتالوج شيبورد,8,images/pages/CHI-907.jpg,images/swatches/CHI-907.jpg
+CHI-919,919,chipboard,شيبورد,Chipboard,شيبورد 919,رمادي,Grey,#616161,grey,Wood,,,,,,كتالوج شيبورد,9,images/pages/CHI-919.jpg,images/swatches/CHI-919.jpg
+CHI-934,934,chipboard,شيبورد,Chipboard,شيبورد 934,بني رمادي,Greyish Brown,#8A7D6B,brown,Wood Grain / Linear,,,,,,كتالوج شيبورد,10,images/pages/CHI-934.jpg,images/swatches/CHI-934.jpg
+CHI-931,931,chipboard,شيبورد,Chipboard,شيبورد 931,رمادي غامق,Dark Grey,#5B6465,grey,Wood Grain,,,,,,كتالوج شيبورد,11,images/pages/CHI-931.jpg,images/swatches/CHI-931.jpg
+CHI-963,963,chipboard,شيبورد,Chipboard,بديل خشب بني,بني خشبي,Wood Brown,#5C4528,brown,wood,,,,,,كتالوج شيبورد,12,images/pages/CHI-963.jpg,images/swatches/CHI-963.jpg
+CHI-907-2,907,chipboard,شيبورد,Chipboard,شيبورد 907,بيج خشبي فاتح,Light Wood Beige,#D8CBB9,beige,خشي / عروق خشب,,,,,,كتالوج شيبورد,13,images/pages/CHI-907-2.jpg,images/swatches/CHI-907-2.jpg
+CHI-960,960,chipboard,شيبورد,Chipboard,شيبورد 960,بني رمادي / خشب رمادي,Greyish Brown Wood,#8A7963,brown,wood_grain,wood_look,,,,,كتالوج شيبورد,14,images/pages/CHI-960.jpg,images/swatches/CHI-960.jpg
+CHI-910,910,chipboard,شيبورد,Chipboard,شيبورد 910,رمادي غامق / رمادي مخضر,Dark Grey / Greyish Green,#3A453F,grey,Wood Grain Chevron / Chevron Fabric Texture,,,,,,كتالوج شيبورد,15,images/pages/CHI-910.jpg,images/swatches/CHI-910.jpg
+CHI-954,954,chipboard,شيبورد,Chipboard,شيبورد 954,بيج فاتح / قماشي,Light Beige / Fabric,#CFCBB1,بيج,قماش / خيش,,,,,,كتالوج شيبورد,16,images/pages/CHI-954.jpg,images/swatches/CHI-954.jpg
+CHI-953,953,chipboard,شيبورد,Chipboard,شيبورد 953,بيج خشبي فاتح,Light Wood Beige,#C2B290,beige,Wood Grain,,,,,,كتالوج شيبورد,17,images/pages/CHI-953.jpg,images/swatches/CHI-953.jpg
+CHI-964,964,chipboard,شيبورد,Chipboard,شيبورد 964,رمادي,Grey,#9E9FA1,grey,Chevron / Herringbone Wood Texture,,,,,,كتالوج شيبورد,18,images/pages/CHI-964.jpg,images/swatches/CHI-964.jpg
+CHI-924,924,chipboard,شيبورد,Chipboard,شيبورد 924,بيج خشبي فاتح,Light Wood Beige,#CBB178,beige,خشب,,,,,,كتالوج شيبورد,19,images/pages/CHI-924.jpg,images/swatches/CHI-924.jpg
+CHI-915,915,chipboard,شيبورد,Chipboard,بديل خشب / عينة خشبية,بني خشبي غامق,Dark Wood Brown,#523D2B,brown,wood,,,,,,كتالوج شيبورد,20,images/pages/CHI-915.jpg,images/swatches/CHI-915.jpg
+CHI-949,949,chipboard,شيبورد,Chipboard,شيبورد 949,رمادي غامق,Dark Grey,#6B6C6E,رمادي,خشبي,,,,,,كتالوج شيبورد,21,images/pages/CHI-949.jpg,images/swatches/CHI-949.jpg
+CHI-966,966,chipboard,شيبورد,Chipboard,شيبورد 966,رمادي خشبى,Wood Grey,#737B72,Grey,Wood,,,,,,كتالوج شيبورد,22,images/pages/CHI-966.jpg,images/swatches/CHI-966.jpg
+CHI-912,912,chipboard,شيبورد,Chipboard,بديل خشب بيج فاتح,بيج خشبي فاتح,Light Wood Beige,#D2B48C,beige,Wood Grain,MDF,,,,,كتالوج شيبورد,23,images/pages/CHI-912.jpg,images/swatches/CHI-912.jpg
+CHI-903,903,chipboard,شيبورد,Chipboard,شيبورد 903,بني غامق,Dark Brown,#3D281D,brown,خشب - Wood,,,,,,كتالوج شيبورد,24,images/pages/CHI-903.jpg,images/swatches/CHI-903.jpg
+CHI-951,951,chipboard,شيبورد,Chipboard,شيبورد 951,بني خشب رمادي,Greyish Brown Wood,#7B6E5A,brown,Wood Grain,,,,,,كتالوج شيبورد,25,images/pages/CHI-951.jpg,images/swatches/CHI-951.jpg
+CHI-920,920,chipboard,شيبورد,Chipboard,أبيض,أبيض,White,#FFFFFF,white,Solid,,,,,أبيض,كتالوج شيبورد,26,images/pages/CHI-920.jpg,images/swatches/CHI-920.jpg
+CHI-929,929,chipboard,شيبورد,Chipboard,شيبورد 929,بني خشبي,Wood Brown,#997C52,brown,Wood,,,,,,كتالوج شيبورد,27,images/pages/CHI-929.jpg,images/swatches/CHI-929.jpg
+CHI-962,962,chipboard,شيبورد,Chipboard,شيبورد 962,رمادي,Grey,#A0A0A0,Grey,Fabric / Linen,,,,,,كتالوج شيبورد,28,images/pages/CHI-962.jpg,images/swatches/CHI-962.jpg
+CHI-923,923,chipboard,شيبورد,Chipboard,بديل خشب / بديل رخام,بيج خشبي فاتح,Light Beige Wood,#D8CBB5,beige,wood,,,,,,كتالوج شيبورد,29,images/pages/CHI-923.jpg,images/swatches/CHI-923.jpg
+CHI-926,926,chipboard,شيبورد,Chipboard,شيبورد 926,رمادي فاتح,Light Grey,#C2C5C8,Grey,Wood Grain,,,,,,كتالوج شيبورد,30,images/pages/CHI-926.jpg,images/swatches/CHI-926.jpg
+CHI-946,946,chipboard,شيبورد,Chipboard,شيبورد 946,رمادي فاتح,Light Grey,#D3D3D3,Grey,قماش / خيش,,,,,,كتالوج شيبورد,31,images/pages/CHI-946.jpg,images/swatches/CHI-946.jpg
+CHI-A206,A206,chipboard,شيبورد,Chipboard,شيبورد A206,بني رمادي فاتح,Light Greyish Brown,#A3988C,beige,wood_grain,wood,,,,,كتالوج شيبورد,32,images/pages/CHI-A206.jpg,images/swatches/CHI-A206.jpg
+CHI-965,965,chipboard,شيبورد,Chipboard,شيبورد 965,بيج خشبي فاتح,Light Wood Beige,#C2B889,beige,wood_grain,wood_grain,,,,,كتالوج شيبورد,33,images/pages/CHI-965.jpg,images/swatches/CHI-965.jpg
+CHI-B119,B119,chipboard,شيبورد,Chipboard,شيبورد B119,رمادي فاتح,Light Grey,#D3D1CD,رمادي,خيش / قماش,,,,,,كتالوج شيبورد,34,images/pages/CHI-B119.jpg,images/swatches/CHI-B119.jpg
+CHI-A205,A205,chipboard,شيبورد,Chipboard,شيبورد A205,رمادي بيج فاتح (خشبي),Light Grey Beige Wood,#C2BEB4,grey,Wood Grain,,,,,,كتالوج شيبورد,35,images/pages/CHI-A205.jpg,images/swatches/CHI-A205.jpg
+CHI-959,959,chipboard,شيبورد,Chipboard,شيبورد 959,رمادي فاتح,Light Grey,#D2D2D2,grey,قماش,,,,,,كتالوج شيبورد,36,images/pages/CHI-959.jpg,images/swatches/CHI-959.jpg
+CHI-943,943,chipboard,شيبورد,Chipboard,شيبورد 943,رمادي رمادي بيج / خشي فاتح,Light Grey Wood,#D5D0C8,grey,wood,,,,,,كتالوج شيبورد,37,images/pages/CHI-943.jpg,images/swatches/CHI-943.jpg
+CHI-958,958,chipboard,شيبورد,Chipboard,شيبورد 958,رمادي,Grey,#8E9398,grey,قماش / خيش,,,,,,كتالوج شيبورد,38,images/pages/CHI-958.jpg,images/swatches/CHI-958.jpg
+CHI-W011,W011,chipboard,شيبورد,Chipboard,شيبورد W011,بني خشبي,Wood Brown,#8C6243,brown,wood_grain,wood,,,,,كتالوج شيبورد,39,images/pages/CHI-W011.jpg,images/swatches/CHI-W011.jpg
+CHI-948,948,chipboard,شيبورد,Chipboard,شيبورد 948,بيج رمادي,Greige / Beige,#C1BBB2,beige,Fabric / Linen,,,,,,كتالوج شيبورد,40,images/pages/CHI-948.jpg,images/swatches/CHI-948.jpg
+CHI-W096,W096,chipboard,شيبورد,Chipboard,شيبورد W096,رمادي قماشي / خشبي,Grey Fabric/Wood,#9E9B98,رمادي,Chevron / Herringbone,,,,,,كتالوج شيبورد,41,images/pages/CHI-W096.jpg,images/swatches/CHI-W096.jpg
+CHI-956,956,chipboard,شيبورد,Chipboard,شيبورد 956,رمادي,Grey,#9E9E9E,grey,قماش / خيش,,,,,,كتالوج شيبورد,42,images/pages/CHI-956.jpg,images/swatches/CHI-956.jpg
+CHI-927,927,chipboard,شيبورد,Chipboard,شيبورد 927,رمادي فاتح,Light Grey,#B8B9BD,رمادي,خطوط طولية بارزة,,,,,,كتالوج شيبورد,43,images/pages/CHI-927.jpg,images/swatches/CHI-927.jpg
+CHI-A242,A242,chipboard,شيبورد,Chipboard,شيبورد A242,رمادي بيج / معدني,Beige Grey / Metallic,#BCB7B1,grey,brushed metal,,,,,,كتالوج شيبورد,44,images/pages/CHI-A242.jpg,images/swatches/CHI-A242.jpg
+CHI-952,952,chipboard,شيبورد,Chipboard,أبيض,أبيض,White,#FFFFFF,White,,,,,,"CODE : 952
+ابيض",كتالوج شيبورد,45,images/pages/CHI-952.jpg,images/swatches/CHI-952.jpg
+CHI-936,936,chipboard,شيبورد,Chipboard,شيبورد 936,بني رمادي (خشب),Greyish Brown Wood,#736556,brown,wood,,,,,,كتالوج شيبورد,46,images/pages/CHI-936.jpg,images/swatches/CHI-936.jpg
+COR-P010,P010,cornice,كرانيش فيوتك السويدي,Cornice / Molding,كرانيش فيوتك السويدي P010,أبيض,White,#FFFFFF,white,,,4,,,,كتالوج كرانيش فيوتك السويدي,3,images/pages/COR-P010.jpg,images/swatches/COR-P010.jpg
+COR-P240,P240,cornice,كرانيش فيوتك السويدي,Cornice / Molding,بانوهات,أبيض,White,#FFFFFF,أبيض,,,4,,,البانوهات PANOATS,كتالوج كرانيش فيوتك السويدي,4,images/pages/COR-P240.jpg,images/swatches/COR-P240.jpg
+COR-010 CPR101,010 CPR101,cornice,كرانيش فيوتك السويدي,Cornice / Molding,كرانيش فيوتك السويدي 010 CPR101,أبيض,White,#FFFFFF,white,,,4,,,,كتالوج كرانيش فيوتك السويدي,5,images/pages/COR-010_CPR101.jpg,images/swatches/COR-010_CPR101.jpg
+COR-030,030,cornice,كرانيش فيوتك السويدي,Cornice / Molding,كرانيش فيوتك السويدي 030,أبيض,White,#FFFFFF,white,,,2.2,,,,كتالوج كرانيش فيوتك السويدي,6,images/pages/COR-030.jpg,images/swatches/COR-030.jpg
+COR-0220,0220,cornice,كرانيش فيوتك السويدي,Cornice / Molding,كرانيش فيوتك السويدي 0220,أبيض,White,#FFFFFF,white,,,2.2,,,,كتالوج كرانيش فيوتك السويدي,7,images/pages/COR-0220.jpg,images/swatches/COR-0220.jpg
+COR-0260,0260,cornice,كرانيش فيوتك السويدي,Cornice / Molding,كرنيشة / بانوه ديكوري,أبيض,White,#FFFFFF,white,,,6,,,,كتالوج كرانيش فيوتك السويدي,8,images/pages/COR-0260.jpg,images/swatches/COR-0260.jpg
+COR-R1 / R2 / R3 / R4,R1 / R2 / R3 / R4,cornice,كرانيش فيوتك السويدي,Cornice / Molding,إطار دائم دائرية زخرفية,أبيض,White,#FFFFFF,أبيض,دائري,,70.0,70.0,,,كتالوج كرانيش فيوتك السويدي,9,images/pages/COR-R1___R2___R3___R4.jpg,images/swatches/COR-R1___R2___R3___R4.jpg
+COR-R5 / R6 / R7 / R8,R5 / R6 / R7 / R8,cornice,كرانيش فيوتك السويدي,Cornice / Molding,بانوهات حائط دائرية / قوسية,أبيض,White,#EAEAEA,أبيض,دائري / أقواس decorative Moulding,,,,,ELSWEEDY FOR DECORATION,كتالوج كرانيش فيوتك السويدي,10,images/pages/COR-R5___R6___R7___R8.jpg,images/swatches/COR-R5___R6___R7___R8.jpg
+COR-011,011,cornice,كرانيش فيوتك السويدي,Cornice / Molding,كرنيشة سقف مزخرفة,أبيض,White,#FFFFFF,white,زخارف نباتية / كلاسيك,,14,16,,"011
+16 سم
+14 سم",كتالوج كرانيش فيوتك السويدي,11,images/pages/COR-011.jpg,images/swatches/COR-011.jpg
+COR-014,014,cornice,كرانيش فيوتك السويدي,Cornice / Molding,كرانيش فيوتك السويدي 014,أبيض,White,#ECECEC,white,,,9,10,,,كتالوج كرانيش فيوتك السويدي,12,images/pages/COR-014.jpg,images/swatches/COR-014.jpg
+COR-015,015,cornice,كرانيش فيوتك السويدي,Cornice / Molding,كرنيشة سقف ديكورية,أبيض,White,#FFFFFF,أبيض,سادة,فوم / بولي يوريثان,6,6,,,كتالوج كرانيش فيوتك السويدي,13,images/pages/COR-015.jpg,images/swatches/COR-015.jpg
+COR-016,016,cornice,كرانيش فيوتك السويدي,Cornice / Molding,كرانيش فيوتك السويدي 016,أبيض,White,#EEEEEE,أبيض,سادة / كلاسيك,كرنيش / فوم / بولي يوريثان,5,7,,,كتالوج كرانيش فيوتك السويدي,14,images/pages/COR-016.jpg,images/swatches/COR-016.jpg
+COR-018,018,cornice,كرانيش فيوتك السويدي,Cornice / Molding,كرنيش ديكور,أبيض,White,#FFFFFF,White,سادة,,6,7,,,كتالوج كرانيش فيوتك السويدي,15,images/pages/COR-018.jpg,images/swatches/COR-018.jpg
+COR-019,019,cornice,كرانيش فيوتك السويدي,Cornice / Molding,كرنيش سقف / بانوه,أبيض,White,#FFFFFF,white,,,11,11,110,,كتالوج كرانيش فيوتك السويدي,16,images/pages/COR-019.jpg,images/swatches/COR-019.jpg
+COR-020,020,cornice,كرانيش فيوتك السويدي,Cornice / Molding,كرنيشة سقف ديكورية,أبيض,White,#ECECEC,white,سادة مع انحناءات ومجاري أضواء / حواف موجة,فوم / بولي يوريثان,11,12,,,كتالوج كرانيش فيوتك السويدي,17,images/pages/COR-020.jpg,images/swatches/COR-020.jpg
+COR-021,021,cornice,كرانيش فيوتك السويدي,Cornice / Molding,كرانيش فيوتك السويدي 021,أبيض,White,#FFFFFF,white,,,10.5,12,,,كتالوج كرانيش فيوتك السويدي,18,images/pages/COR-021.jpg,images/swatches/COR-021.jpg
+COR-022,022,cornice,كرانيش فيوتك السويدي,Cornice / Molding,كرنيشة ديكور,أبيض,White,#FFFFFF,White,,,14,16,,,كتالوج كرانيش فيوتك السويدي,19,images/pages/COR-022.jpg,images/swatches/COR-022.jpg
+COR-051,051,cornice,كرانيش فيوتك السويدي,Cornice / Molding,كرانيش فيوتك السويدي 051,أبيض,White,#FFFFFF,white,,,9,7.5,,,كتالوج كرانيش فيوتك السويدي,20,images/pages/COR-051.jpg,images/swatches/COR-051.jpg
+COR-035,035,cornice,كرانيش فيوتك السويدي,Cornice / Molding,كرانيش فيوتك السويدي 035,أبيض,White,#FFFFFF,white,,,12,12,,,كتالوج كرانيش فيوتك السويدي,21,images/pages/COR-035.jpg,images/swatches/COR-035.jpg
+COR-057,057,cornice,كرانيش فيوتك السويدي,Cornice / Molding,كرانيش فيوتك السويدي 057,أبيض,White,#F5F5F5,أبيض,,,7,7,,,كتالوج كرانيش فيوتك السويدي,22,images/pages/COR-057.jpg,images/swatches/COR-057.jpg
+COR-L002,L002,cornice,كرانيش فيوتك السويدي,Cornice / Molding,بيت نور بديل الجبس بورد,أبيض,White,#FFFFFF,White,Plain,,15,,15,"بيت نور بديل الجبس بورد
+كود L002",كتالوج كرانيش فيوتك السويدي,23,images/pages/COR-L002.jpg,images/swatches/COR-L002.jpg
+COR-L001,L001,cornice,كرانيش فيوتك السويدي,Cornice / Molding,بيت نور بديل الجبس بورد,أبيض,White,#FFFFFF,white,,,25,,60,,كتالوج كرانيش فيوتك السويدي,24,images/pages/COR-L001.jpg,images/swatches/COR-L001.jpg
+COR-L003,L003,cornice,كرانيش فيوتك السويدي,Cornice / Molding,كرنيشة إضاءة بيت نور,أبيض,White,#FFFFFF,أبيض,,,6.5,,,"إضاءة متنوعة: دافئة
+ELSWEEDY FOR DECORATION",كتالوج كرانيش فيوتك السويدي,25,images/pages/COR-L003.jpg,images/swatches/COR-L003.jpg
+COR-L004,L004,cornice,كرانيش فيوتك السويدي,Cornice / Molding,كرنيشة بيت نور / كرنيشة سقف,أبيض,White,#ECECEC,أبيض,,فوم / بوليثين,8,9,45,,كتالوج كرانيش فيوتك السويدي,26,images/pages/COR-L004.jpg,images/swatches/COR-L004.jpg
+COR-L005,L005,cornice,كرانيش فيوتك السويدي,Cornice / Molding,كرنيش إضاءة بيت نور,أبيض,White,#FFFFFF,White,,,9.5,11.3,61,,كتالوج كرانيش فيوتك السويدي,27,images/pages/COR-L005.jpg,images/swatches/COR-L005.jpg
+COR-SK.L2,SK.L2,cornice,كرانيش فيوتك السويدي,Cornice / Molding,وزرة أرضية فيوتك 10cm,أبيض,White,#FFFFFF,White,,Fumtech / Polyurethane (فيوتك),10,,,وزرة أرضية فيوتك 10cm,كتالوج كرانيش فيوتك السويدي,28,images/pages/COR-SK.L2.jpg,images/swatches/COR-SK.L2.jpg
+COR-ML-24015,ML-24015,cornice,كرانيش فيوتك السويدي,Cornice / Molding,نعلة إضاءة مدمجة,أبيض,White,#FFFFFF,white,سادة مع إضاءة,,15,240,,,كتالوج كرانيش فيوتك السويدي,29,images/pages/COR-ML-24015.jpg,images/swatches/COR-ML-24015.jpg
+COR-SM WHITE JC 10 CM,SM WHITE JC 10 CM,cornice,كرانيش فيوتك السويدي,Cornice / Molding,وزرة ليد ps,أبيض مطفي خالص,Pure Matte White,#FFFFFF,white,Plain,PS,10,240,,وزرة ليد ps,كتالوج كرانيش فيوتك السويدي,30,images/pages/COR-SM_WHITE_JC_10_CM.jpg,images/swatches/COR-SM_WHITE_JC_10_CM.jpg
+COR-ps 10 cm,ps 10 cm,cornice,كرانيش فيوتك السويدي,Cornice / Molding,وزرة,أبيض,White,#FFFFFF,white,Plain,Polystyrene (PS),10,,,وزرة ps 10 cm,كتالوج كرانيش فيوتك السويدي,31,images/pages/COR-ps_10_cm.jpg,images/swatches/COR-ps_10_cm.jpg
+COR-wR1,wR1,cornice,كرانيش فيوتك السويدي,Cornice / Molding,بانلو / وزرة أبيض,أبيض,White,#FFFFFF,white,Solid,Duropolymer / Polystyrene,7.5,240,9,"كود
+موديل
+المقاس
+طول العود
+سعر المتر بالجنيه
+كمية الكرتونة بالمتر
+سعر الكرتونة
+wR1
+2.40
+42.50
+240.00
+10,200.00
+wR1-LED
+2.40
+52.50
+240.00
+12,600.00
+wR2
+2.40
+82.50
+168.00
+13,860.00
+wR2-LED
+92.50
+168.00
+15,540.00
+wR3
+2.40
+110.00
+96.00
+10,560.00
+wR3-LED
+2.40
+120.00
+96.00
+11,520.00
+wR4
+2.40
+110.00
+96.00
+10,560.00
+wR4-LED
+2.40
+120.00
+96.00
+11,520.00",كتالوج كرانيش فيوتك السويدي,32,images/pages/COR-wR1.jpg,images/swatches/COR-wR1.jpg
+COR-M033,M033,cornice,كرانيش فيوتك السويدي,Cornice / Molding,صُرة سقف دائرية,أبيض,White,#FFFFFF,أبيض,,,30,30,,,كتالوج كرانيش فيوتك السويدي,33,images/pages/COR-M033.jpg,images/swatches/COR-M033.jpg
+COR-MOD3,MOD3,cornice,كرانيش فيوتك السويدي,Cornice / Molding,صرة سقف زخرفية,,White,#FFFFFF,White,Floral / Ornamental,,30,,,,كتالوج كرانيش فيوتك السويدي,34,images/pages/COR-MOD3.jpg,images/swatches/COR-MOD3.jpg
+COR-M025,M025,cornice,كرانيش فيوتك السويدي,Cornice / Molding,كرانيش فيوتك السويدي M025,أبيض,White,#FFFFFF,white,,,45,,,,كتالوج كرانيش فيوتك السويدي,35,images/pages/COR-M025.jpg,images/swatches/COR-M025.jpg
+COR-M015,M015,cornice,كرانيش فيوتك السويدي,Cornice / Molding,كرانيش فيوتك السويدي M015,أبيض,White,#FFFFFF,white,,,19,,,,كتالوج كرانيش فيوتك السويدي,36,images/pages/COR-M015.jpg,images/swatches/COR-M015.jpg
+COR-M024 / M069 / M064 / M001 / M070 / M065,M024 / M069 / M064 / M001 / M070 / M065,cornice,كرانيش فيوتك السويدي,Cornice / Molding,كرانيش فيوتك السويدي M024 / M069 / M064 / M001 / M070 / M065,,White,#FFFFFF,White,,,,,,,كتالوج كرانيش فيوتك السويدي,37,images/pages/COR-M024___M069___M064___M001___M070___M065.jpg,images/swatches/COR-M024___M069___M064___M001___M070___M065.jpg
+COR-M027 / M028 / M029 / M019 / M067 / M060,M027 / M028 / M029 / M019 / M067 / M060,cornice,كرانيش فيوتك السويدي,Cornice / Molding,صرة سقف زخرفية / روزيت سقف,أبيض,White,#FFFFFF,white,نقوش كلاسيكية وزخارف دائرية,فوم / جص / بوليوريثان,,,,,كتالوج كرانيش فيوتك السويدي,38,images/pages/COR-M027___M028___M029___M019___M067___M060.jpg,images/swatches/COR-M027___M028___M029___M019___M067___M060.jpg
+COR-M018,M018,cornice,كرانيش فيوتك السويدي,Cornice / Molding,كرانيش فيوتك السويدي M018,أبيض,White,#FFFFFF,White,,,60,60,,,كتالوج كرانيش فيوتك السويدي,39,images/pages/COR-M018.jpg,images/swatches/COR-M018.jpg
+"COR-M020, M131, M021, M023, M066, M026","M020, M131, M021, M023, M066, M026",cornice,كرانيش فيوتك السويدي,Cornice / Molding,"كرانيش فيوتك السويدي M020, M131, M021, M023, M066, M026",,White,#FFFFFF,white,Floral / Rosette,,,,,,كتالوج كرانيش فيوتك السويدي,40,images/pages/COR-M020__M131__M021__M023__M066__M026.jpg,images/swatches/COR-M020__M131__M021__M023__M066__M026.jpg
+COR-R001 / R002 / R003 / R004 / R005 / R006 / R007,R001 / R002 / R003 / R004 / R005 / R006 / R007,cornice,كرانيش فيوتك السويدي,Cornice / Molding,كرانيش فيوتك السويدي R001 / R002 / R003 / R004 / R005 / R006 / R007,أبيض,White,#FFFFFF,أبيض,دائري,,,,,,كتالوج كرانيش فيوتك السويدي,41,images/pages/COR-R001___R002___R003___R004___R005___R006___R007.jpg,images/swatches/COR-R001___R002___R003___R004___R005___R006___R007.jpg
+COR-E030 / E040 / E050 / E060 / W070 / W080,E030 / E040 / E050 / E060 / W070 / W080,cornice,كرانيش فيوتك السويدي,Cornice / Molding,زوايا وإطارات ديكورية ماس تك بلس,أبيض,White,#FFFFFF,White,,,,240,,,كتالوج كرانيش فيوتك السويدي,42,images/pages/COR-E030___E040___E050___E060___W070___W080.jpg,images/swatches/COR-E030___E040___E050___E060___W070___W080.jpg
+COR-D011,D011,cornice,كرانيش فيوتك السويدي,Cornice / Molding,كرانيش فيوتك السويدي D011,أبيض,White,#EAEAEA,white,Circles 3D / دوائر ثلاثية الأبعاد,,50,50,,,كتالوج كرانيش فيوتك السويدي,43,images/pages/COR-D011.jpg,images/swatches/COR-D011.jpg
+COR-D001,D001,cornice,كرانيش فيوتك السويدي,Cornice / Molding,كرانيش فيوتك السويدي D001,,Grey / Metallic Green,#9BA397,grey,3D Diamond / Geometric,,50,50,,,كتالوج كرانيش فيوتك السويدي,44,images/pages/COR-D001.jpg,images/swatches/COR-D001.jpg
+COR-D003 / D004,D003 / D004,cornice,كرانيش فيوتك السويدي,Cornice / Molding,كرانيش فيوتك السويدي D003 / D004,أبيض,White,#F0F0F0,أبيض,3D geometric,,50,50,,,كتالوج كرانيش فيوتك السويدي,45,images/pages/COR-D003___D004.jpg,images/swatches/COR-D003___D004.jpg
+COR-D005 / D006,D005 / D006,cornice,كرانيش فيوتك السويدي,Cornice / Molding,كرانيش فيوتك السويدي D005 / D006,أبيض / رمادي أزرق,White / Blue Grey,#E6E8EA,أبيض,أمواج وزخارف وردية 3D,,50,50,,,كتالوج كرانيش فيوتك السويدي,46,images/pages/COR-D005___D006.jpg,images/swatches/COR-D005___D006.jpg
+COR-D007 / D008,D007 / D008,cornice,كرانيش فيوتك السويدي,Cornice / Molding,ألواح جدارية ثلاثية الأبعاد,أبيض / كريمي,White / Cream,#EFEFEF,أبيض,موجات حفر ثلاثية الأبعاد,,50,50,,,كتالوج كرانيش فيوتك السويدي,47,images/pages/COR-D007___D008.jpg,images/swatches/COR-D007___D008.jpg
+COR-D009 / D010,D009 / D010,cornice,كرانيش فيوتك السويدي,Cornice / Molding,بلاط حوائط ثلاثي الأبعاد بارز,أبيض,White,#EFEFEF,أبيض,أشكال هندسية وثلاثية الأبعاد / دوائر حلزونية,,50,50,,,كتالوج كرانيش فيوتك السويدي,48,images/pages/COR-D009___D010.jpg,images/swatches/COR-D009___D010.jpg
+COR-D017 / D018,D017 / D018,cornice,كرانيش فيوتك السويدي,Cornice / Molding,كرانيش فيوتك السويدي D017 / D018,أبيض,White,#F0F0F0,white,3D Geometric / Waves,,62 / 50,80 / 50,,,كتالوج كرانيش فيوتك السويدي,49,images/pages/COR-D017___D018.jpg,images/swatches/COR-D017___D018.jpg
+"COR-D013, D014","D013, D014",cornice,كرانيش فيوتك السويدي,Cornice / Molding,"كرانيش فيوتك السويدي D013, D014",,White,#EAEAEA,White,,,"50, 80","50, 62",,,كتالوج كرانيش فيوتك السويدي,50,images/pages/COR-D013__D014.jpg,images/swatches/COR-D013__D014.jpg
+COR-D015,D015,cornice,كرانيش فيوتك السويدي,Cornice / Molding,كرانيش فيوتك السويدي D015,أبيض,White,#E6E6E6,أبيض,طوب,,70.3,77.3,,,كتالوج كرانيش فيوتك السويدي,51,images/pages/COR-D015.jpg,images/swatches/COR-D015.jpg
+COR-D019,D019,cornice,كرانيش فيوتك السويدي,Cornice / Molding,كرانيش فيوتك السويدي D019,أبيض,White,#FFFFFF,White,Vertical Lines / Panel,,50,100,,,كتالوج كرانيش فيوتك السويدي,52,images/pages/COR-D019.jpg,images/swatches/COR-D019.jpg
+MAR-DP-006,DP-006,marble,بديل الرخام,Marble Alternative,بديل الرخام DP-006,بيج فاتح / بيج خشبي,Beige / Light Wood,#D8BC98,beige,wood,,122,280,,,كتالوج بديل الرخام,1,images/pages/MAR-DP-006.jpg,images/swatches/MAR-DP-006.jpg
+MAR-DP-042,DP-042,marble,بديل الرخام,Marble Alternative,بديل الرخام DP-042,أبيض رخامي,White Marble,#F2F3F5,white,marble,,122,280,,,كتالوج بديل الرخام,2,images/pages/MAR-DP-042.jpg,images/swatches/MAR-DP-042.jpg
+MAR-DP-008,DP-008,marble,بديل الرخام,Marble Alternative,بديل الرخام DP-008,رمادي فاتح,Light Grey,#CCCCCC,grey,marble,,122,280,,,كتالوج بديل الرخام,3,images/pages/MAR-DP-008.jpg,images/swatches/MAR-DP-008.jpg
+MAR-DP-013,DP-013,marble,بديل الرخام,Marble Alternative,بديل رخام أسود مع عروق هندسية بيضاء,أسود مع خطوط بيضاء,Black with white lines,#1A1A1A,أسود,رخامي هندسي,,122,280,,,كتالوج بديل الرخام,4,images/pages/MAR-DP-013.jpg,images/swatches/MAR-DP-013.jpg
+MAR-DP-050,DP-050,marble,بديل الرخام,Marble Alternative,بديل رخام أبيض بعروق رمادية,أبيض مع عروق رمادية وبنية,White with grey and brown veins,#E3E3E5,white,marble,بديل رخام,122,280,,,كتالوج بديل الرخام,5,images/pages/MAR-DP-050.jpg,images/swatches/MAR-DP-050.jpg
+MAR-DP-022,DP-022,marble,بديل الرخام,Marble Alternative,بديل رخام DP-022,أبيض رمادي,White Grey,#D8D8DC,white,marble,pvc,122,280,,,كتالوج بديل الرخام,6,images/pages/MAR-DP-022.jpg,images/swatches/MAR-DP-022.jpg
+MAR-DP-055,DP-055,marble,بديل الرخام,Marble Alternative,بديل الرخام DP-055,أبيض مع عروق بني ورمادي,White with brown and grey veins,#ECECEC,White,Marble,,122,280,,,كتالوج بديل الرخام,7,images/pages/MAR-DP-055.jpg,images/swatches/MAR-DP-055.jpg
+MAR-DP-001,DP-001,marble,بديل الرخام,Marble Alternative,بديل الرخام DP-001,بيج رخامي,Marble Beige,#D2C2A6,beige,marble,,122,280,,,كتالوج بديل الرخام,8,images/pages/MAR-DP-001.jpg,images/swatches/MAR-DP-001.jpg
+MAR-DP-007,DP-007,marble,بديل الرخام,Marble Alternative,بديل رخام أبيض,أبيض رخامي,Marble White,#E1E3E5,white,marble,,122,280,,,كتالوج بديل الرخام,9,images/pages/MAR-DP-007.jpg,images/swatches/MAR-DP-007.jpg
+MAR-DP-043,DP-043,marble,بديل الرخام,Marble Alternative,بديل رخام بيج مع عروق زرقاء وذهبية,بيج مع عروق زرقاء وذهبية,Beige with blue and gold veins,#D9D3C7,beige,Marble Look,Pvc,122,280,,,كتالوج بديل الرخام,10,images/pages/MAR-DP-043.jpg,images/swatches/MAR-DP-043.jpg
+MAR-DP-029,DP-029,marble,بديل الرخام,Marble Alternative,بديل الرخام DP-029,أبيض مع عروق رمادية وذهبية,White with grey and gold veins,#EAEAEA,white,marble,,122,280,,,كتالوج بديل الرخام,11,images/pages/MAR-DP-029.jpg,images/swatches/MAR-DP-029.jpg
+MAR-DP-036,DP-036,marble,بديل الرخام,Marble Alternative,بديل رخام أسود بعروق بيضاء,أسود مع عروق بيضاء,Black with white veins,#1C1D21,black,Marble,PVC / Marble alternative,122,280,,,كتالوج بديل الرخام,12,images/pages/MAR-DP-036.jpg,images/swatches/MAR-DP-036.jpg
+MAR-DP-004,DP-004,marble,بديل الرخام,Marble Alternative,بديل رخام أبيض بعروق رمادية,أبيض مع عروق رمادية,White with Grey Veins,#E3E5EB,white,marble,PVC,122,280,,,كتالوج بديل الرخام,13,images/pages/MAR-DP-004.jpg,images/swatches/MAR-DP-004.jpg
+MAR-DP-020,DP-020,marble,بديل الرخام,Marble Alternative,بديل رخام رمادي,رمادي,Grey,#96979A,grey,Marble,بديل رخام,122,280,,,كتالوج بديل الرخام,14,images/pages/MAR-DP-020.jpg,images/swatches/MAR-DP-020.jpg
+MAR-DP-049,DP-049,marble,بديل الرخام,Marble Alternative,بديل رخام بني,بني رخامي,Marble Brown,#6E5545,brown,marble,pvc,122,280,,,كتالوج بديل الرخام,15,images/pages/MAR-DP-049.jpg,images/swatches/MAR-DP-049.jpg
+MAR-DP-069,DP-069,marble,بديل الرخام,Marble Alternative,بديل الرخام DP-069,أبيض رمادي مع عروق زرقاء وذهبية,Light Blue Grey with Blue Veins,#D3DCDE,blue,Marble,,122,280,,,كتالوج بديل الرخام,16,images/pages/MAR-DP-069.jpg,images/swatches/MAR-DP-069.jpg
+MAR-DP-025,DP-025,marble,بديل الرخام,Marble Alternative,بديل رخام أبيض بعروق بني ورمادي,أبيض مع عروق بنية ورمادية,White with brown and grey veins,#EAECE9,white,marble,pvc,122,280,,,كتالوج بديل الرخام,17,images/pages/MAR-DP-025.jpg,images/swatches/MAR-DP-025.jpg
+MAR-DP-019,DP-019,marble,بديل الرخام,Marble Alternative,بديل الرخام DP-019,رمادي مع بني وذهبي,Grey with Brown and Gold,#A29B8C,grey,marble,,122,280,,,كتالوج بديل الرخام,18,images/pages/MAR-DP-019.jpg,images/swatches/MAR-DP-019.jpg
+MAR-DP-017,DP-017,marble,بديل الرخام,Marble Alternative,بديل رخام أبيض رخامي,أبيض رخامي مع عروق رمادية وذهبية,Marble White with Grey and Gold Veins,#E6E8EE,white,marble,,122,280,,,كتالوج بديل الرخام,19,images/pages/MAR-DP-017.jpg,images/swatches/MAR-DP-017.jpg
+MAR-DP-040,DP-040,marble,بديل الرخام,Marble Alternative,بديل الرخام DP-040,أبيض مع عروق رمادية,White with grey veins,#FFFFFF,white,marble,,122,280,,,كتالوج بديل الرخام,20,images/pages/MAR-DP-040.jpg,images/swatches/MAR-DP-040.jpg
+MAR-DP-051,DP-051,marble,بديل الرخام,Marble Alternative,بديل رخام أبيض رخامي,أبيض مع عروق رمادية,White with Grey Veins,#C2C9D1,أبيض,رخامي,بديل رخام,122,280,,,كتالوج بديل الرخام,21,images/pages/MAR-DP-051.jpg,images/swatches/MAR-DP-051.jpg
+MAR-DP-021,DP-021,marble,بديل الرخام,Marble Alternative,بديل الرخام DP-021,رمادي فاتح مع بيج,Light Grey with Beige,#C8CACC,grey,marble,,122,280,,,كتالوج بديل الرخام,22,images/pages/MAR-DP-021.jpg,images/swatches/MAR-DP-021.jpg
+MAR-DP-014,DP-014,marble,بديل الرخام,Marble Alternative,بديل الرخام DP-014,أسود مع عروق ذهبية/بيضاء,Black with gold/white veins,#191616,أسود,رخامي هندسي / Marble Geometric,,122,280,,,كتالوج بديل الرخام,23,images/pages/MAR-DP-014.jpg,images/swatches/MAR-DP-014.jpg
+MAR-DP-023,DP-023,marble,بديل الرخام,Marble Alternative,بديل رخام رمادي,رمادي,Grey,#9E9B9C,grey,رخامي,بديل رخام,122,280,,,كتالوج بديل الرخام,24,images/pages/MAR-DP-023.jpg,images/swatches/MAR-DP-023.jpg
+MAR-DP-058,DP-058,marble,بديل الرخام,Marble Alternative,بديل الرخام DP-058,أبيض مع عروق رمادية,White with grey veins,#F4F5F7,white,marble,,122,280,,,كتالوج بديل الرخام,25,images/pages/MAR-DP-058.jpg,images/swatches/MAR-DP-058.jpg
+MAR-DP-054,DP-054,marble,بديل الرخام,Marble Alternative,رخام أبيض رخامي بعروق بني ورمادي,أبيض مع عروق بني ورمادي,White with brown and grey veins,#F5F4F0,أبيض,رخامي,,122,280,,,كتالوج بديل الرخام,26,images/pages/MAR-DP-054.jpg,images/swatches/MAR-DP-054.jpg
+MAR-DP-508,DP-508,marble,بديل الرخام,Marble Alternative,بديل الرخام DP-508,أبيض مع عروق رمادية وذهبية,White with grey and gold veins,#EAEAEA,أبيض,رخامي,,122,280,,,كتالوج بديل الرخام,27,images/pages/MAR-DP-508.jpg,images/swatches/MAR-DP-508.jpg
+MAR-DP-011,DP-011,marble,بديل الرخام,Marble Alternative,بديل الرخام DP-011,أبيض مع عروق رمادية,White with grey veins,#E5E7EB,أبيض,رخامي,,122,280,,,كتالوج بديل الرخام,28,images/pages/MAR-DP-011.jpg,images/swatches/MAR-DP-011.jpg
+MAR-N/A,N/A,marble,بديل الرخام,Marble Alternative,بديل الرخام N/A,بيج,Beige,#E3D5C1,beige,Travertine,,122,280,,,كتالوج بديل الرخام,29,images/pages/MAR-N_A.jpg,images/swatches/MAR-N_A.jpg
+MAR-DP-031,DP-031,marble,بديل الرخام,Marble Alternative,بديل الرخام DP-031,أبيض,WHITE,#EDEDED,white,Plain,,122,280,,,كتالوج بديل الرخام,30,images/pages/MAR-DP-031.jpg,images/swatches/MAR-DP-031.jpg
+MAR-DP-500,DP-500,marble,بديل الرخام,Marble Alternative,بديل الرخام DP-500,أبيض وأسود وذهبي,"White, Black & Gold",#E5E5E5,multi,marble,,122,280,,,كتالوج بديل الرخام,31,images/pages/MAR-DP-500.jpg,images/swatches/MAR-DP-500.jpg
+MAR-DP-018,DP-018,marble,بديل الرخام,Marble Alternative,بديل الرخام DP-018,رمادي رخامي,Marble Grey,#5C6266,grey,Marble / Stone,PVC / DecoPlast,122,280,,,كتالوج بديل الرخام,32,images/pages/MAR-DP-018.jpg,images/swatches/MAR-DP-018.jpg
+MAR-DP-062,DP-062,marble,بديل الرخام,Marble Alternative,بديل الرخام DP-062,أبيض رخامي مع عروق رمادية وذهبية,Marble White with Grey and Gold Veins,#E1E5EA,white,رخام,بديل رخام,122,280,,,كتالوج بديل الرخام,33,images/pages/MAR-DP-062.jpg,images/swatches/MAR-DP-062.jpg
+MAR-DP-015,DP-015,marble,بديل الرخام,Marble Alternative,بديل الرخام DP-015,أبيض مع عروق رمادية وبنية,White with grey and brown veins,#E5E5EA,white,marble,,122.0,280,,,كتالوج بديل الرخام,34,images/pages/MAR-DP-015.jpg,images/swatches/MAR-DP-015.jpg
+MAR-DP-026,DP-026,marble,بديل الرخام,Marble Alternative,بديل رخام أبيض بعروق ذهبية,أبيض مع عروق ذهبية,White with Gold Veins,#EAEAE8,white,marble,PVC / البديل الرخامي,122,280,,,كتالوج بديل الرخام,35,images/pages/MAR-DP-026.jpg,images/swatches/MAR-DP-026.jpg
+MAR-DP-005,DP-005,marble,بديل الرخام,Marble Alternative,بديل الرخام DP-005,أزرق رمادي مع لمسات ذهبية/بنية,Blue Gray with Gold/Brown touches,#7A8B9E,Blue,Abstract/Textured,,122,280,,,كتالوج بديل الرخام,36,images/pages/MAR-DP-005.jpg,images/swatches/MAR-DP-005.jpg
+MAR-DP-024,DP-024,marble,بديل الرخام,Marble Alternative,بديل رخام أبيض,أبيض مع عروق رمادية,White with Grey Veins,#EAEAEA,white,marble,,122,280,,,كتالوج بديل الرخام,37,images/pages/MAR-DP-024.jpg,images/swatches/MAR-DP-024.jpg
+MAR-DP-047,DP-047,marble,بديل الرخام,Marble Alternative,بديل الرخام DP-047,بني رخامي مع عروق بيضاء,Marble Brown with White Veins,#4E3B31,brown,رخام,,122,280,,,كتالوج بديل الرخام,38,images/pages/MAR-DP-047.jpg,images/swatches/MAR-DP-047.jpg
+MAR-DP-035,DP-035,marble,بديل الرخام,Marble Alternative,بديل الرخام DP-035,رمادي فاتح رخامي مع تعريقات داكنة وذهبية,Light Marble Grey with Dark & Gold Veins,#C5CAE0,grey,marble,,122,280,,,كتالوج بديل الرخام,39,images/pages/MAR-DP-035.jpg,images/swatches/MAR-DP-035.jpg
+MAR-DP-501,DP-501,marble,بديل الرخام,Marble Alternative,بديل الرخام DP-501,أبيض وأسود مع لمسات ذهبية,White and Black with Gold Accents,#E5E5E5,white,Marble,بديل رخام,122,280,,,كتالوج بديل الرخام,40,images/pages/MAR-DP-501.jpg,images/swatches/MAR-DP-501.jpg
+MAR-DP-009,DP-009,marble,بديل الرخام,Marble Alternative,بديل الرخام DP-009,رمادي,Grey,#867C80,Grey,Marble,,122,280,,,كتالوج بديل الرخام,41,images/pages/MAR-DP-009.jpg,images/swatches/MAR-DP-009.jpg
+MAR-DP-041,DP-041,marble,بديل الرخام,Marble Alternative,بديل الرخام DP-041,أبيض رخامي,Marble White,#ECEEEF,أبيض,رخامي,,122,280,,,كتالوج بديل الرخام,42,images/pages/MAR-DP-041.jpg,images/swatches/MAR-DP-041.jpg
+MAR-DP-057,DP-057,marble,بديل الرخام,Marble Alternative,بديل الرخام DP-057,أبيض مع عروق رمادية ورمادية دافئة,White with grey and warm grey veins,#EAEAEA,white,marble,PVC / Marble Panel,122,280,,,كتالوج بديل الرخام,43,images/pages/MAR-DP-057.jpg,images/swatches/MAR-DP-057.jpg
+MAR-DP-034,DP-034,marble,بديل الرخام,Marble Alternative,بديل الرخام DP-034,أبيض مائل للرمادي مع عروق ذهبية ورمادية,Off-white with gold and gray veins,#E5E3DB,off-white,marble,,122,280,,,كتالوج بديل الرخام,44,images/pages/MAR-DP-034.jpg,images/swatches/MAR-DP-034.jpg
+MAR-DP-037,DP-037,marble,بديل الرخام,Marble Alternative,بديل رخام أبيض مع عروق رمادية وذهبية,أبيض مع عروق رمادية وذهبية,White with Grey and Gold Veins,#E5E3E0,white,marble,PVC,122,280,,,كتالوج بديل الرخام,45,images/pages/MAR-DP-037.jpg,images/swatches/MAR-DP-037.jpg
+MAR-DP-038,DP-038,marble,بديل الرخام,Marble Alternative,بديل الرخام DP-038,أبيض مع عروق رمادية,White with Grey Veins,#ECEEEF,white,marble,,122,280,,,كتالوج بديل الرخام,46,images/pages/MAR-DP-038.jpg,images/swatches/MAR-DP-038.jpg
+MAR-DP-033,DP-033,marble,بديل الرخام,Marble Alternative,بديل رخام أبيض رخامي,أبيض مع عروق رمادية وذهبية,White with Grey and Gold Veins,#F5F5F5,white,marble,PVC / Marble Sheet,122,280,,,كتالوج بديل الرخام,47,images/pages/MAR-DP-033.jpg,images/swatches/MAR-DP-033.jpg
+MAR-DP-058-2,DP-058,marble,بديل الرخام,Marble Alternative,بديل الرخام DP-058,أبيض رخامي,Marble White,#F5F5F7,white,Marble,,122,280,,,كتالوج بديل الرخام,48,images/pages/MAR-DP-058-2.jpg,images/swatches/MAR-DP-058-2.jpg
+MAR-DP-012,DP-012,marble,بديل الرخام,Marble Alternative,بديل الرخام DP-012,أبيض مع خطوط رمادية,White with grey veins,#F3F3F3,white,Marble,,122,280,,,كتالوج بديل الرخام,49,images/pages/MAR-DP-012.jpg,images/swatches/MAR-DP-012.jpg
+MAR-DP-027,DP-027,marble,بديل الرخام,Marble Alternative,بديل الرخام DP-027,أخضر فاتح رخامي مع عروق ذهبية,Light Jade Green with Gold Veins,#D1DDD1,green,رخامي,بديل رخام,122,280,,,كتالوج بديل الرخام,50,images/pages/MAR-DP-027.jpg,images/swatches/MAR-DP-027.jpg
+MAR-DP-053,DP-053,marble,بديل الرخام,Marble Alternative,بديل رخام أبيض بعروق,أبيض مع عروق رمادية وذهبية,White with grey and gold veins,#F3F3F3,white,رخام,,122,280,,,كتالوج بديل الرخام,51,images/pages/MAR-DP-053.jpg,images/swatches/MAR-DP-053.jpg
+MAR-DP-028,DP-028,marble,بديل الرخام,Marble Alternative,بديل رخام DP-028,أسود/رمادي داكن مع عروق بيضاء,Black/Dark Grey with White Veins,#3D3A37,أسود,رخامي بعروق بيضاء,,122.0,280,,,كتالوج بديل الرخام,52,images/pages/MAR-DP-028.jpg,images/swatches/MAR-DP-028.jpg
+MAR-DP-505,DP-505,marble,بديل الرخام,Marble Alternative,بديل الرخام DP-505,أبيض مع عروق رمادية وذهبية,White with grey and gold veins,#E2E2E0,أبيض,رخام,,122,280,,,كتالوج بديل الرخام,53,images/pages/MAR-DP-505.jpg,images/swatches/MAR-DP-505.jpg
+MAR-DP-061,DP-061,marble,بديل الرخام,Marble Alternative,بديل رخام أبيض رخامي,أبيض مع عروق رمادية,White with gray veins,#F5F5F7,white,رخام,بديل رخام,122,280,,,كتالوج بديل الرخام,54,images/pages/MAR-DP-061.jpg,images/swatches/MAR-DP-061.jpg
+MAR-DP-016,DP-016,marble,بديل الرخام,Marble Alternative,بديل الرخام DP-016,أبيض مع عروق رمادية وذهبية,White with Grey and Gold Veins,#E5E5E8,أبيض,رخام,,122,280,,,كتالوج بديل الرخام,55,images/pages/MAR-DP-016.jpg,images/swatches/MAR-DP-016.jpg
+MAR-DP-046,DP-046,marble,بديل الرخام,Marble Alternative,بديل الرخام DP-046,أبيض رخامي مع عروق بني وبني فاتح,White Marble with Brown Veins,#E0DDD9,white,marble,,122,280,,,كتالوج بديل الرخام,56,images/pages/MAR-DP-046.jpg,images/swatches/MAR-DP-046.jpg
+MAR-DP-044,DP-044,marble,بديل الرخام,Marble Alternative,بديل الرخام DP-044,أبيض مع عروق رمادية وذهبية,White with Grey & Gold Veins,#F2F3F5,white,marble,,122,280,,,كتالوج بديل الرخام,57,images/pages/MAR-DP-044.jpg,images/swatches/MAR-DP-044.jpg
+MAR-DP-048,DP-048,marble,بديل الرخام,Marble Alternative,بديل الرخام DP-048,بيج رخامي,Beige Marble,#D3BEA2,beige,Marble,,122,280,,,كتالوج بديل الرخام,58,images/pages/MAR-DP-048.jpg,images/swatches/MAR-DP-048.jpg
+MAR-DP-032,DP-032,marble,بديل الرخام,Marble Alternative,بديل الرخام DP-032,أبيض مع عروق رمادية وذهبية,White with grey and gold veins,#EBECEC,أبيض,رخامي,,122,280,,,كتالوج بديل الرخام,59,images/pages/MAR-DP-032.jpg,images/swatches/MAR-DP-032.jpg
